@@ -1,0 +1,51 @@
+cv:
+  name: Isaiah Washington
+  location: Austin, TX
+  email: isaiahwashington48@gmail.com
+  phone: 513.544.9022
+  social_networks:
+    - network: LinkedIn
+      username: isaiah-washington48
+    - network: GitHub
+      username: Izayauh
+  sections:
+    summary:
+      - Production Support Engineer with rigorous hands-on endpoint provisioning and remote administration experience. Proven track record in orchestrating device setups, hardware replacements, and executive-level ticketing workflows across 150+ operational locations. Blends systemic hardware deployment logic (Windows/macOS familiarity) with white-glove executive and customer support. 
+    experience:
+      - company: Nexus WiFi
+        position: Network Support Technician
+        location: Remote
+        start_date: 2021-10
+        end_date: present
+        highlights:
+          - Orchestrated hardware replacement lifecycles (APs, switches) and managed end-to-end user connectivity verification across remote deployments.
+          - Served as the primary technical resource maintaining 150+ properties, ensuring operational A/V and network infrastructure standards.
+          - Conducted high-priority ticket tracking, efficiently escalating endpoint access barriers while keeping executive and property-level stakeholders informed.
+      - company: Midway Auto Group
+        position: Administrative Assistant
+        location: Middletown, OH
+        start_date: 2019-01
+        end_date: 2023-12
+        highlights:
+          - Directed physical inventory tracking pipelines covering full physical device and vehicle distribution metrics.
+          - Built administrative documentation standards ensuring fast accessibility for inbound support requests.
+    projects:
+      - name: Impulse (Local AI Dictation)
+        highlights:
+          - Mastered local environment packaging and deployment workflows, compiling a fully functional Windows installer for a Python application.
+          - Managed Windows-specific environment hooks (CUDA), hotkey bindings, and deployment lifecycles for beta environments.
+    skills:
+      - label: IT Support & Endpoints
+        details: Hardware Deployment, Windows/macOS Environments, Network Outage Triage, Basic DHCP, A/V Management, Executive Support
+      - label: Tools
+        details: Ticketing Systems, GitHub, Microsoft Office/Teams, Python Tooling
+      - label: Competencies
+        details: Escalation Management, Independent Prioritization, Technical Empathy
+    education:
+      - institution: Coursera
+        area: Google IT Support Certification
+        end_date: 2022-11
+      - institution: Miami University
+        area: Business Management Technology Coursework (67 credit hours)
+        start_date: 2018-08
+        end_date: 2024-05

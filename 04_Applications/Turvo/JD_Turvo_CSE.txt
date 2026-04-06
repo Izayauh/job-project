@@ -1,0 +1,36 @@
+About Turvo
+Turvo provides a collaborative Transportation Management System (TMS) application designed specifically for the supply chain. Turvo Collaboration Cloud connects freight brokers, 3PLs, shippers, and carriers to unite supply chain ecosystems, delivering outstanding customer experiences, real-time collaboration, and accelerated growth. The technology unifies internal and external systems, providing one end-to-end solution that streamlines operations, enhances analytics, and automates business processes while eliminating redundant manual tasks. Turvo's customers include some of the world's largest Fortune 500 logistics service providers and shippers as well as small to mid-sized freight brokers. Turvo is based in Dallas, Texas, with offices in Hyderabad, India. (www.turvo.com).
+
+About this Role
+We are seeking a highly customer-centric Customer Support Engineer who is a product expert and thrives in a fast-paced environment. In this role, you will be responsible for diagnosing and resolving complex product issues, including Sev 1 and Sev 2 incidents, while working closely with customers, engineering, product, and site reliability teams.
+
+You will play a critical role in ensuring customer success by delivering timely resolutions, providing technical expertise, and acting as the voice of the customer to drive continuous product improvements. This position requires strong technical acumen, product knowledge, business awareness, and a passion for customer experience.
+
+Candidates based in Dallas, TX are preferred.
+Key Responsibilities:
+Own and manage customer-reported product issues, ensuring resolution within defined Service Level Agreements (SLAs).
+Perform root cause analysis and coordinate with appropriate engineering teams to drive issue resolution.
+Diagnose and resolve product and third-party integration issues, both technical and non-technical.
+Investigate, document, and escalate complex or systemic issues to engineering teams.
+Provide on-call support coverage for Sev 1 and Sev 2 customer incidents from 8:00 AM to 8:00 PM Central Time, as part of a rotating schedule.
+Collaborate with product management, engineering, and site reliability engineering teams to identify recurring issues and performance improvement opportunities.
+Act as the "voice of the customer" by sharing insights and feedback to influence product enhancements.
+Create, maintain, and contribute to technical documentation and knowledge base articles for internal teams and customers.
+Stay current with new products and services through regular monthly releases.
+Work independently, making informed decisions while owning issues end-to-end.
+Qualifications:
+3+ years of experience in fast-paced technical support, application support, or a related engineering role.
+Bachelor's degree in Engineering, Computer Science, Information Technology, Computer Information Systems, or a related field (or equivalent practical experience)
+Strong troubleshooting skills with a proven customer-centric mindset.
+Hands-on experience with tools and technologies such as: Kibana, Elasticsearch, MySQL, MongoDB, Browser Developer Tools, REST APIs / OpenAPI, RabbitMQ, Java Debugging, Python Scripting
+Ability to work independently, manage multiple priorities, and take ownership of issues from start to finish.
+Willingness to work flexible hours and participate in holiday/on-call rotations to meet customer SLA requirements.
+Excellent written and verbal communication skills for effective interaction with customers and internal stakeholders.
+Proficiency with support tools, CRM systems, and remote support technologies.
+Adaptability to evolving industry trends and a dynamic support environment.
+Prior experience in supply chain or logistics industries is a plus.
+We are an Equal Opportunity Employer and strive to make hiring decisions that reflect our commitment to diversity and inclusion.
+
+Customer Support Engineer candidates based in Dallas, TX are preferred.
+
+Compensation Range: $60,000 to $100,000 base salary; plus discretionary bonus.

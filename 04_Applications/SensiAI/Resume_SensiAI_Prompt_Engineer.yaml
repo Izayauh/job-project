@@ -1,0 +1,44 @@
+cv:
+  name: Isaiah Washington
+  location: Austin, TX
+  email: isaiahwashington48@gmail.com
+  phone: 513.544.9022
+  social_networks:
+    - network: LinkedIn
+      username: isaiah-washington48
+    - network: GitHub
+      username: Izayauh
+  sections:
+    summary:
+      - Prompt Engineer and Python developer specializing in multi-turn conversational voice agents and LLM orchestration. Designed complex multi-agent architectures using Google Gemini and LangChain methodologies to automate creative workflows with deterministic pipelines. Strong technical communication skills backed by 4+ years in customer-facing support, bridging the gap between raw AI implementations and natural user experiences.
+    experience:
+      - company: Nexus WiFi
+        position: Network Support Technician
+        location: Remote
+        start_date: 2021-10
+        end_date: present
+        highlights:
+          - Investigated and triaged complex logic flows for remote properties, establishing a foundation for structured, chain-of-thought diagnostics.
+          - Maintained strict operational documentation to communicate complex infrastructure states to cross-functional engineering teams.
+    projects:
+      - name: Live Pilot - Voice-Controlled AI Assistant
+        highlights:
+          - Designed a 6-agent conversational architecture with 62 discrete tool functions driven by Google Gemini 2.5 Flash for voice-enabled environment control.
+          - Implemented advanced prompt engineering and deterministic pipelines (PLAN, EXECUTE, VERIFY, REPORT) to bypass iterative hallucinations and reduce API call failures.
+          - Balanced prompt tone, intent classification, and fallback resolution for seamless user experiences.
+      - name: Impulse (WhisperLocal)
+        highlights:
+          - Developed a local LLM/Speech-to-Text inference wrapper prioritizing extreme privacy and optimization using CUDA memory management.
+          - Deployed React/TypeScript interfaces integrated tightly with Python backend handlers for clean prompt ingestion.
+    skills:
+      - label: AI & Prompting
+        details: LLM Orchestration, LangChain methodologies, Google Gemini API, OpenAI Whisper, Few-Shot Prompting, Function Calling
+      - label: Software & Tools
+        details: Python, TypeScript, React, GitHub, Multi-Agent Architecture
+      - label: Workflow
+        details: Technical Communication, Conversational Design, Rapid Prototyping
+    education:
+      - institution: Miami University
+        area: Business Management Technology Coursework (67 credit hours)
+        start_date: 2018-08
+        end_date: 2024-05

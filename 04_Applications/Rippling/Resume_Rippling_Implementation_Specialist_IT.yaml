@@ -1,0 +1,53 @@
+cv:
+  name: Isaiah Washington
+  location: Austin, TX
+  email: isaiahwashington48@gmail.com
+  phone: 513.544.9022
+  social_networks:
+    - network: LinkedIn
+      username: isaiah-washington48
+    - network: GitHub
+      username: Izayauh
+  sections:
+    summary:
+      - Implementation Specialist, IT combining technical endpoints provisioning expertise with customer-facing integration workflows. Highly skilled in fleet management setup, identity provisioning, and managing deployment lifecycles for desktop environments. Proven ability to translate complex technology sets (Endpoints, Hardware, Outages) into clear, actionable training for B2B clientele, ensuring smooth post-kickoff adoption and long-term success.
+    experience:
+      - company: Nexus WiFi
+        position: Network Support Technician
+        location: Remote
+        start_date: 2021-10
+        end_date: present
+        highlights:
+          - Advised on complex device implementations (Gateway/APs) across 150+ operational locations, diagnosing hardware health and guiding clients to swift resolutions.
+          - Streamlined hardware replacement workflows and deployment lifecycle configurations, consistently minimizing property disruption times.
+          - Acted as the primary implementation contact during triage scenarios, delivering clear communication to property stakeholders.
+      - company: Midway Auto Group
+        position: Administrative Assistant
+        location: Middletown, OH
+        start_date: 2019-01
+        end_date: 2023-12
+        highlights:
+          - Configured, deployed, and trained staff on a centralized tracking system for large-scale automobile inventory matrices.
+    projects:
+      - name: Impulse (WhisperLocal)
+        highlights:
+          - Built and packaged a Windows implementation environment integrating OpenAI Whisper models and heavy UI configuration.
+          - Deployed extensive endpoint lifecycle tracking by designing installer wizards, hotkey environments, and detailed configuration parameters for user setup.
+      - name: Live Pilot
+        highlights:
+          - Engineered a deterministic API architecture capable of translating natural user intents into rigid application state actions for immediate environment control.
+    skills:
+      - label: Implementation & IT
+        details: Endpoint/Fleet Lifecycle configuration, Identity Provisioning concepts, Hardware Configuration, Technical Training
+      - label: Customer Engagement
+        details: Client Communication, Issue Resolution, Cross-functional Coordination
+      - label: Software Background
+        details: Python, Git, Windows MDM familiarity, Internal Tooling
+    education:
+      - institution: Coursera
+        area: Google IT Support Certification
+        end_date: 2022-11
+      - institution: Miami University
+        area: Business Management Technology Coursework (67 credit hours)
+        start_date: 2018-08
+        end_date: 2024-05

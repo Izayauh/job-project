@@ -1,0 +1,81 @@
+=================================================================
+  MATCH REPORT
+=================================================================
+Resume:  Resume_Turvo_CSE.pdf
+JD:      JD_Turvo_CSE.txt
+
+  OVERALL SCORE: 89/100
+
+  Hard Skills:  34/38 matched (89%)
+  Soft Skills:  8/8 matched (100%)
+  Word Count:   744
+  Job Title:    'Support Engineer' — MATCHED
+  Neg. Words:   0 found
+
+-----------------------------------------------------------------
+  HARD SKILLS
+-----------------------------------------------------------------
+  Skill                            Resume       JD     Status
+  ------------------------------ -------- -------- ----------
+  elasticsearch                         0        1    MISSING
+  rabbitmq                              0        1    MISSING
+  mongodb                               0        1    MISSING
+  kibana                                0        1    MISSING
+  site reliability engineering          1        1         OK
+  computer information systems          1        1         OK
+  transportation management             1        1         OK
+  service level agreements              2        1         OK
+  technical documentation               5        1         OK
+  knowledge base articles               2        1         OK
+  performance improvement               1        1         OK
+  browser developer tools               1        1         OK
+  information technology                1        1         OK
+  product enhancements                  1        1         OK
+  application support                   2        1         OK
+  root cause analysis                   3        1         OK
+  customer experience                   3        2         OK
+  integration issues                    2        1         OK
+  technical support                     2        1         OK
+  customer support                      1        2         OK
+  python scripting                      4        1         OK
+  computer science                      1        1         OK
+  customer success                      1        1         OK
+  troubleshooting                       4        1         OK
+  remote support                        1        1         OK
+  java debugging                        1        1         OK
+  support tools                         2        1         OK
+  supply chain                          1        3         OK
+  crm systems                           1        1         OK
+  rest apis                             1        1         OK
+  analytics                             2        1         OK
+  logistics                             1        2         OK
+  openapi                               3        1         OK
+  on-call                               2        2         OK
+  freight                               1        2         OK
+  mysql                                 2        1         OK
+  slas                                  2        1         OK
+  tms                                   1        1         OK
+
+-----------------------------------------------------------------
+  SOFT SKILLS
+-----------------------------------------------------------------
+  Skill                            Resume       JD     Status
+  ------------------------------ -------- -------- ----------
+  written and verbal communication        2        1         OK
+  work independently                    1        2         OK
+  customer-centric                      2        2         OK
+  collaborative                         2        1         OK
+  collaboration                         3        2         OK
+  adaptability                          2        1         OK
+  collaborate                           1        1         OK
+  reliability                           3        2         OK
+
+-----------------------------------------------------------------
+  RECOMMENDATIONS
+-----------------------------------------------------------------
+  1. MISSING hard skill: 'elasticsearch' (appears 1x in JD)
+  2. MISSING hard skill: 'rabbitmq' (appears 1x in JD)
+  3. MISSING hard skill: 'mongodb' (appears 1x in JD)
+  4. MISSING hard skill: 'kibana' (appears 1x in JD)
+
+=================================================================

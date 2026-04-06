@@ -1,0 +1,51 @@
+cv:
+  name: Isaiah Washington
+  location: Austin, TX
+  email: isaiahwashington48@gmail.com
+  phone: 513.544.9022
+  social_networks:
+    - network: LinkedIn
+      username: isaiah-washington48
+    - network: GitHub
+      username: Izayauh
+  sections:
+    summary:
+      - Application Support Engineer blending 4+ years of customer-facing operational triage with hands-on software development. Proven track record in isolating complex logic errors, resolving deep-stack workflow interruptions, and analyzing logs. Independent self-starter proficient in Python API implementations, database interactions, and structured root-cause diagnostic workflows. Committed to cross-team collaboration to restore service availability and optimize application continuity.
+    experience:
+      - company: Nexus WiFi
+        position: Network Support Technician
+        location: Remote
+        start_date: 2021-10
+        end_date: present
+        highlights:
+          - Provided advanced operational maintenance and support, diagnosing downed infrastructure (Gateways, Switches, APs) across 150+ managed properties.
+          - Executed root cause analysis for 1,500+ hours of inbound customer-facing disruptions, documenting application instability and routing critical integration failures to senior engineering.
+          - Performed daily health checks on connectivity nodes, utilizing internal platforms to prevent recurring logical issues and optimize internal support workflows.
+      - company: Midway Auto Group
+        position: Administrative Assistant
+        location: Middletown, OH
+        start_date: 2019-01
+        end_date: 2023-12
+        highlights:
+          - Developed a physical and data inventory tracking application minimizing administrative overhead and reducing data redundancy across the organization.
+    projects:
+      - name: Impulse (WhisperLocal)
+        highlights:
+          - Engineered a software development project prioritizing 100% on-device AI transcription using OpenAI Whisper, CUDA optimizations, and rigorous error handling.
+          - Created repeatable deployment and update tracking guides to reduce continuous support loads and stabilize system releases.
+      - name: Live Pilot
+        highlights:
+          - Developed a multi-agent application utilizing Python and the Google Gemini API to parse voice text and post requests securely via deterministic chains.
+          - Built comprehensive error parsing logic directly handling system crashes and recovering failed OSC server interactions programmatically.
+    skills:
+      - label: Technical Support
+        details: Root-Cause Analysis, Log Investigation, Operational Maintenance, Application Stability
+      - label: Programming
+        details: Python, APIs, SQL Basics, HTML/CSS/JavaScript
+      - label: Application Stack
+        details: Git, GitHub, JIRA Workflows, Troubleshooting
+    education:
+      - institution: Miami University
+        area: Database Design & Development Coursework (67 total credit hours)
+        start_date: 2018-08
+        end_date: 2024-05

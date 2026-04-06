@@ -1,0 +1,57 @@
+cv:
+  name: Isaiah Washington
+  location: Austin, TX
+  email: isaiahwashington48@gmail.com
+  phone: 513.544.9022
+  social_networks:
+    - network: LinkedIn
+      username: isaiah-washington48
+    - network: GitHub
+      username: Izayauh
+  sections:
+    summary:
+      - Technical Support Engineer with 4+ years of remote B2B SaaS and infrastructure support experience. Proven ability to resolve complex customer-impacting issues, manage Jira/GitHub escalations, and translate technical API and networking concepts for non-technical users. Built production-ready Python tooling to automate workflows and optimize support. Comfortable with weekend-coverage rotations and thriving in asynchronous, globally-distributed teams.
+    experience:
+      - company: Nexus WiFi
+        position: Network Support Technician
+        location: Remote
+        start_date: 2021-10
+        end_date: present
+        highlights:
+          - Provided remote technical support and troubleshooting across 150+ managed properties, resolving downed infrastructure and internet connectivity issues.
+          - Executed rigorous ticket management using internal platforms, escalating deep-stack device connection requests while maintaining high responsiveness.
+          - Coordinated hardware replacement and basic DHCP server verification to ensure rapid service restoration.
+          - Delivered 1,500+ hours of 100% remote customer-facing support, calmly guiding varied audiences through diagnostic flows.
+      - company: Midway Auto Group
+        position: Administrative Assistant
+        location: Middletown, OH
+        start_date: 2019-01
+        end_date: 2023-12
+        highlights:
+          - Built and maintained an inventory tracking system optimizing operations during high business growth.
+          - Assisted clients with scheduling and high-priority frontline support workflows.
+    projects:
+      - name: Impulse (WhisperLocal)
+        highlights:
+          - Packaged a system-wide speech-to-text dictation application for Windows with 100% local processing utilizing OpenAI Whisper.
+          - Engineered GPU-accelerated pipeline with NVIDIA CUDA, designing smart model selection for optimal transcription.
+          - Managed beta releases and public GitHub repository tracking (57 commits) with detailed user guides.
+      - name: Live Pilot
+        highlights:
+          - Engineered a voice-controlled AI prototype using Python, multi-agent frameworks, and OSC protocol.
+          - Executed deterministic REST/API call structures to replace redundant LLM loops, minimizing failure rates.
+    skills:
+      - label: Technical Support
+        details: API Troubleshooting, SaaS Support, Device Triage, Networking Basics, Jira, GitHub, Escalation Management
+      - label: Software & Tools
+        details: Python, APIs (REST/OSC), Linux/WSL, React, TypeScript, Git
+      - label: Soft Skills
+        details: Customer-Facing Communication, Async Collaboration, SLA Triage, Technical Documentation
+    education:
+      - institution: Miami University
+        area: Business Management Technology Coursework (67 credit hours)
+        start_date: 2018-08
+        end_date: 2024-05
+      - institution: Coursera
+        area: Google IT Support Certification
+        end_date: 2022-11

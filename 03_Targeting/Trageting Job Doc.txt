@@ -1,0 +1,71 @@
+### 1. Postman — Technical Support Engineer (Austin, NY)
+- C:\Users\isaia\Projects\tools\job-project\00_Source_Materials\Job Descriptions\Job Application for Technical Support Engineer, Austin, NY at Postman.pdf
+**PDF Findings:** Role is based in Austin, TX or New York, NY (ET hours). $67,400 to $91,000. 2+ years of technical product support experience for a SaaS product. Strong familiarity with APIs, web fundamentals, Jira, Github. Weekend coverage expected. 
+
+### 2. Togetherwork — Production Support Engineer (Austin, TX)
+- C:\Users\isaia\Projects\tools\job-project\00_Source_Materials\Job Descriptions\Production Support Engineer (Onsite- Austin, TX) - Togetherwork.pdf
+**PDF Findings:** Role is onsite in Austin, TX. 2+ years IT support / systems administration. Focuses on local IT support for Austin office (executives, A/V systems, new laptop deployment) and Endpoint Management (Jamf, Intune, Windows/macOS) in collaboration with Maryland team.
+
+### 3. Togetherwork — Customer Support Specialist - Payment Processing (Austin, TX)
+Couldnt Find 4/6/2026 Isaiah
+
+### 4. Charles Schwab — Production Support Engineer (Austin, TX)
+Job Opp Closed
+
+### 5. STRATA Trust Company — Application Support Engineer (Austin, TX)
+- C:\Users\isaia\Projects\tools\job-project\00_Source_Materials\Job Descriptions\Application Support Engineer _ STRATA Trust Company.pdf
+**PDF Findings:** Role is onsite in Austin, TX. 20-35% software development. 2+ yrs database/SQL, 3+ yrs OOO programming (C#, C++, JS, Python). Maintain, troubleshoot, and support organization applications and workflows.
+
+### 6. Sensi.AI — Prompt Engineer (Austin, TX)
+- C:\Users\isaia\Projects\tools\job-project\00_Source_Materials\Job Descriptions\Job opportunity_ Prompt Engineer_ Sensi.AI
+**PDF Findings:** Hybrid role in Austin, TX. Design multi-turn conversational systems and text/voice agents. Requires prompt engineering techniques (LLMs, LangChain) and conversational flow design. Nice-to-have: Healthcare background, Python skills. (Note: The "Technical Support Specialist" pdf wasn't found, but they are hiring a Prompt Engineer).
+
+### 7. Userpilot — Implementation Specialist (Austin, TX)
+Job closed as of 10/07/25 - Isaiah 4/6/26
+
+### 8. Rippling — Implementation Specialist - Benefits & IT (Austin, TX)
+- "C:\Users\isaia\Projects\tools\job-project\00_Source_Materials\Job Descriptions\Implementation Specialist, IT_rippling.pdf"
+- "C:\Users\isaia\Projects\tools\job-project\00_Source_Materials\Job Descriptions\Implementation Specialist, Benefits_Ripplling.pdf"
+**PDF Findings (IT Role):** Minimum 4+ years of IT setup/fleet management experience. Remote / US. Salary: $58.3K - $92K.
+**PDF Findings (Benefits Role):** Minimum 3+ years experience in benefits/insurance implementation. Build custom insurance plans. Remote/Austin. Salary: $71.4K - $119.7K.
+
+### 9. Wellthy — Implementation Specialist (Remote)
+may have already applied, check existing applications and documentation for what I have already applied to 
+
+### 10. gWorks — Implementation Specialist (Remote)
+"C:\Users\isaia\Projects\tools\job-project\00_Source_Materials\Job Descriptions\Join Our Team _ Careers at gWorks_ Empowering Municipal Excellence.pdf"
+**PDF Findings:** Remote role. Base Salary: $68,000 - $80,000. Need 4+ years in client onboarding/SaaS platforms. Guide clients through adoption of gWorks software modules like utility billing, accounting, payroll.
+
+### 11. Nova 401(k) Associates — Entry-Level Implementation Specialist (Remote)
+Job is not open anymore/ Underqualified
+
+### 12. Connecteam — Technical Customer Success (Remote)
+"C:\Users\isaia\Projects\tools\job-project\00_Source_Materials\Job Descriptions\Careers at Connecteam_Customer_Support_rep.pdf"
+**PDF Findings:** Customer Support Representative (Remote). Salary: $50K - $60K. 10:00am-6:00pm shift mostly. Need 1+ year in B2B customer support/SaaS. Troubleshooting app usage, day-to-day problems for deskless workforces.
+
+---
+
+## Expanding Search: Music Production / Audio Engineering (Austin, TX & Atlanta, GA)
+I’ve started exploring roles in the music and audio industry since you're open to lower-paying gigs or internships to get your foot in the door in Austin or Atlanta.
+
+**Atlanta, GA Opportunities**
+1. **Patchwerk Recording Studios (Atlanta, GA)** - Internship Program
+   - *Overview*: Patchwerk is a legendary hip-hop and R&B studio that offers formal, highly competitive internship programs for aspiring Audio Engineers.
+   - *Requirements*: Often requires a background/degree in recording arts or active enrollment, plus local residency and a car.
+2. **Bravo Ocean Studios (Atlanta, GA)** - Studio Intern / Assistant Engineer
+   - *Overview*: They periodically hire interns/assistants to shadow sessions (music, podcast, film audio). Keep an eye out for openings.
+3. *Broader Atlanta Scope*: Major labels, production houses, and live venues consistently hire "A/V Integration Technicians" and "Audio Visual Assistants" as entry points into live sound.
+
+**Austin, TX Opportunities**
+1. **Live Sound / Venue Production Assist**
+   - *Overview*: Places like Zach Theatre, Zilker Hillside Theatre, Stubb's, and other major live music venues hire audio engineering assistants or live-sound interns, especially leading into festival season.
+2. **Local Studio Outreach**
+   - *Studios*: The Bubble, Arlyn Studios, Pony Sound.
+   - *Strategy*: These studios rarely post on job boards like Indeed. The standard approach is to email the Studio Manager directly with your portfolio and resume, expressing interest in assisting/interning.
+3. **University of Texas (UT) Network**
+   - *Overview*: UT's Moody College has deep ties to the industry. Studios nearby often hire assistants.
+
+**Next Steps & Recommendations for Audio Roles:**
+- **Portfolio:** Ensure you have a solid portfolio/reel showcasing your DAW (Ableton, Pro Tools, Logic) experience, beats, or mixed tracks.
+- **Cold Emailing:** For both Austin and Atlanta recording studios, the best way to land a job is by compiling a list of 10-15 local studios and direct-emailing their Studio Managers with an offer to assist, intern, or shadow.
+- **Job Boards:** Keep "Audio Visual Integration" and "AV Technician" searches active, as those IT-adjacent roles often overlap with your current support engineering skills and can serve as a stepping stone into dedicated studio live sound.

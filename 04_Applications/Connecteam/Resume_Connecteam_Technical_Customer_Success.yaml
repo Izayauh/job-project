@@ -1,0 +1,47 @@
+cv:
+  name: Isaiah Washington
+  location: Remote 
+  email: isaiahwashington48@gmail.com
+  phone: 513.544.9022
+  social_networks:
+    - network: LinkedIn
+      username: isaiah-washington48
+    - network: GitHub
+      username: Izayauh
+  sections:
+    summary:
+      - Technical Customer Success Representative with 4+ years of remote B2B SaaS and IT support experience. Specialize in educating clients, providing rapid live feedback to engineering teams, and optimizing product adoption. Thrive in fast-paced startup environments and possess strong written and verbal communication skills geared toward empowering deskless workforces through proactive problem-solving.
+    experience:
+      - company: Nexus WiFi
+        position: Network Support Technician
+        location: Remote
+        start_date: 2021-10
+        end_date: present
+        highlights:
+          - Delivered 1,500+ hours of Tier 1/2 written and verbal communication support directly addressing customer inquiries in 150+ decentralized locations.
+          - Provided clear, empathetic troubleshooting for downed environments and hardware failures, significantly enhancing overall customer satisfaction.
+          - Prioritized incoming service tickets systematically to maintain high performance and speed against critical service interruptions.
+          - Collected granular field feedback from clients regarding infrastructure stability and routed critical enhancements to engineering teams.
+      - company: Midway Auto Group
+        position: Administrative Assistant
+        location: Middletown, OH
+        start_date: 2019-01
+        end_date: 2023-12
+        highlights:
+          - Delivered frontline support to clients, ensuring rapid scheduling and tracking visibility during high-volume periods.
+          - Optimized inventory reporting databases, significantly cutting down on data requests and boosting deskless workforce coordination.
+    projects:
+      - name: Impulse (WhisperLocal)
+        highlights:
+          - Shipped a beta application on Vercel ensuring 100% remote software delivery with clear technical support documentation and privacy disclosures.
+          - Designed an intuitive React/TypeScript frontend addressing complex AI backend operations to empower non-technical end-users.
+    skills:
+      - label: Customer Success
+        details: Remote Client Communication, Ticket Triage, Troubleshooting, Feature Request Routing, Tech-Savvy Problem Solving
+      - label: Technical Knowledge
+        details: B2B Support Operations, Ticket Management Tools, Infrastructure Management, Web Application Operations
+    education:
+      - institution: Miami University
+        area: Business Management Technology Coursework (67 credit hours)
+        start_date: 2018-08
+        end_date: 2024-05

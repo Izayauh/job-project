@@ -1,0 +1,126 @@
+Delivered-To: isaiahwashington48@gmail.com
+Received: by 2002:a05:612c:a02:b0:580:95bf:7a77 with SMTP id gj2csp1446976vqb;
+        Mon, 30 Mar 2026 06:04:58 -0700 (PDT)
+X-Received: by 2002:a05:690c:6601:b0:79a:42f1:abbf with SMTP id 00721157ae682-79bd02aacc6mr127558097b3.24.1774875897973;
+        Mon, 30 Mar 2026 06:04:57 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1774875897; cv=none;
+        d=google.com; s=arc-20240605;
+        b=D1/6ZrbWPAfKCNqe+TxdpRkZxO6/vqXlQjSg8dp5aCE2B2XO34oyvG7x7KqIXE6EIG
+         Wom++WV11F6FSqQF6ojlKSsAZyFCeLVutu7azB4u2hS8NSi79xr9J8nk0LTgoXEhqVKx
+         YpBjcmPwuasmUhm2aAYNzunpIMK5T++iG/LX61kVqHLqAehzyvdmHOrXV4OP8lKJu/IY
+         +I37XNUuAxwGzLPl7s8vhvYu3eiC1nDI5TYZe+vdsxoTnbMci6KZFpbsAkiV7s6qkXgR
+         wcTOLUQ8xsEW0Mgiuge4YMkgnaOtYRVnH8lHg6cNtBrJ3IVbTN0FoCgjIjIMbNAnlWdX
+         JZcQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=feedback-id:date:message-id:mime-version:subject:to:from
+         :dkim-signature:dkim-signature;
+        bh=w3hoD/kuZU4tD+nxzDaXRIpQ7SoUZWATDRLDgKxWQZg=;
+        fh=2LcmzZUd+2I6NoUJcVihUtl5eyo+UDaBK/0VUegJ+s4=;
+        b=Jco6bq3f+4+sTcPGEH2f91KnYTW23eYOz+V9TV7rac5uZSA5kSQxXz6Kd4IzrpmRk/
+         6IoCvOn4Uljacgf1A3nEtK6f3ZgUzKad2vLtiSzOqBYZF+fVDGJr0xScebUs1rX5QSsz
+         1skEcNx4Byn26CjquW0DBJ73odOxxUcHfuAvbMVczMZzHDdDj9j0TqwOnAhDovEWA1nP
+         2w3uwJM1xjC9QK3KAQMzw3pyq/JXXb8ujoiaMs6f6g4UBgwsox5+7MpNQrRWG4nkI8p4
+         GZjvWa2uBXvsjY5qBrVem3mhGUo8wZpnvHc6o4N2lfb5wGhqufVukC79cnoU8Q4KUgd+
+         gzdw==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@ashbyhq.com header.s=35ilcxfelejdmu2qkbchu4gfsqislwzy header.b=EJAOm1rx;
+       dkim=pass header.i=@amazonses.com header.s=224i4yxa5dv7c2xz3womw6peuasteono header.b=k708t9T5;
+       spf=pass (google.com: domain of 0100019d3ed8eed4-77fd4999-655c-4f6d-858a-9f96cfe1c734-000000@in-app-mail.ashbyhq.com designates 54.240.78.44 as permitted sender) smtp.mailfrom=0100019d3ed8eed4-77fd4999-655c-4f6d-858a-9f96cfe1c734-000000@in-app-mail.ashbyhq.com;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=ashbyhq.com
+Return-Path: <0100019d3ed8eed4-77fd4999-655c-4f6d-858a-9f96cfe1c734-000000@in-app-mail.ashbyhq.com>
+Received: from a78-44.smtp-out.amazonses.com (a78-44.smtp-out.amazonses.com. [54.240.78.44])
+        by mx.google.com with ESMTPS id 6a1803df08f44-89ecc1914desi90421446d6.142.2026.03.30.06.04.57
+        for <isaiahwashington48@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Mon, 30 Mar 2026 06:04:57 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 0100019d3ed8eed4-77fd4999-655c-4f6d-858a-9f96cfe1c734-000000@in-app-mail.ashbyhq.com designates 54.240.78.44 as permitted sender) client-ip=54.240.78.44;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@ashbyhq.com header.s=35ilcxfelejdmu2qkbchu4gfsqislwzy header.b=EJAOm1rx;
+       dkim=pass header.i=@amazonses.com header.s=224i4yxa5dv7c2xz3womw6peuasteono header.b=k708t9T5;
+       spf=pass (google.com: domain of 0100019d3ed8eed4-77fd4999-655c-4f6d-858a-9f96cfe1c734-000000@in-app-mail.ashbyhq.com designates 54.240.78.44 as permitted sender) smtp.mailfrom=0100019d3ed8eed4-77fd4999-655c-4f6d-858a-9f96cfe1c734-000000@in-app-mail.ashbyhq.com;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=ashbyhq.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=35ilcxfelejdmu2qkbchu4gfsqislwzy; d=ashbyhq.com; t=1774875897;
+	h=From:To:Subject:MIME-Version:Content-Type:Message-ID:Date;
+	bh=w3hoD/kuZU4tD+nxzDaXRIpQ7SoUZWATDRLDgKxWQZg=;
+	b=EJAOm1rxKxpJCBJBZ8B24AExQcu4LD6QyVtbcbPIPJVpALio9wSE1/qzqTUo11Tk
+	VXEZxsdBs7KGB5l7KJNZa/32IPEpFBIPsoAukziHKVvqfmnq60kIkGQTjSsjt5IkTmQ
+	QbfiZ2i2bJI/+mK6m9Wycrxe5/OQjkS1ArH4yO5XjuRC1pxOPg5GeKWIk/h7upcE0Ey
+	n8YMFFaVVIZJQvAbduMd7kVRXJSBgTFAB4zcwsup0eG00IsVjvLhpA1QlTp1MzQmx2g
+	I6dUga45csMt4Gw1nIwj0QR1F1V5/pT0YuydWjjOuiSIhah2TbiMZCfbRgey2lNLbfZ
+	F2zfucm8jA==
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1774875897;
+	h=From:To:Subject:MIME-Version:Content-Type:Message-ID:Date:Feedback-ID;
+	bh=w3hoD/kuZU4tD+nxzDaXRIpQ7SoUZWATDRLDgKxWQZg=;
+	b=k708t9T5vz6BnrDLQnaqd2havKvbF7IHCgw3e9bAO7V/N7Pwsn86ya5+N/PWEZ6+
+	08OVRwdHQ3R6ClyZFkT3Wg4UEAmw0OE+WMVgvDjXEC6BgZbUAya/+A3rZCnk9Wopov7
+	KEH60FsBfErADJE/V4ZAobYSinBkI7WLeFLGsheA=
+From: The Close Team <no-reply@ashbyhq.com>
+To: isaiahwashington48@gmail.com
+Subject: Thank you, Isaiah
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_298041_2059776901.1774875897556"
+Message-ID: <0100019d3ed8eed4-77fd4999-655c-4f6d-858a-9f96cfe1c734-000000@email.amazonses.com>
+Date: Mon, 30 Mar 2026 13:04:57 +0000
+Feedback-ID: ::1.us-east-1.WOmir7uCwltm0aTT8gfbA5rz60mv7TkX4bFsmUZNNF0=:AmazonSES
+X-SES-Outgoing: 2026.03.30-54.240.78.44
+
+------=_Part_298041_2059776901.1774875897556
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Isaiah,
+
+=C2=A0
+
+Thank you so much for your enthusiasm for Close. We sincerely appreciate th=
+e time and effort you put into our application process.=C2=A0
+
+=C2=A0
+
+Ultimately, we've decided to move forward with other candidates that more c=
+losely align with the requirements for this role.
+
+=C2=A0
+
+We encourage you to continue to keep an eye on our careers page for any fut=
+ure opportunities you feel might be a fit.
+
+=C2=A0
+
+We wish you all the best in your job search.
+
+=C2=A0
+
+Thanks again,
+
+The Close Team
+------=_Part_298041_2059776901.1774875897556
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"></head><body><div style=3D"min-height:1.2em;margin-top:0;margin-b=
+ottom:0">Hi <span>Isaiah</span>,</div><div style=3D"min-height:1.2em;margin=
+-top:0;margin-bottom:0">=C2=A0</div><div style=3D"min-height:1.2em;margin-t=
+op:0;margin-bottom:0">Thank you so much for your enthusiasm for Close. We s=
+incerely appreciate the time and effort you put into our application proces=
+s.=C2=A0</div><div style=3D"min-height:1.2em;margin-top:0;margin-bottom:0">=
+=C2=A0</div><div style=3D"min-height:1.2em;margin-top:0;margin-bottom:0">Ul=
+timately, we've decided to move forward with other candidates that more clo=
+sely align with the requirements for this role.</div><div style=3D"min-heig=
+ht:1.2em;margin-top:0;margin-bottom:0">=C2=A0</div><div style=3D"min-height=
+:1.2em;margin-top:0;margin-bottom:0">We encourage you to continue to keep a=
+n eye on our careers page for any future opportunities you feel might be a =
+fit.</div><div style=3D"min-height:1.2em;margin-top:0;margin-bottom:0">=C2=
+=A0</div><div style=3D"min-height:1.2em;margin-top:0;margin-bottom:0">We wi=
+sh you all the best in your job search.</div><div style=3D"min-height:1.2em=
+;margin-top:0;margin-bottom:0">=C2=A0</div><div style=3D"min-height:1.2em;m=
+argin-top:0;margin-bottom:0">Thanks again,</div><div style=3D"min-height:1.=
+2em;margin-top:0;margin-bottom:0">The Close Team</div><div style=3D"min-hei=
+ght:1.2em;margin-top:0;margin-bottom:0">&nbsp;</div><div style=3D"min-heigh=
+t:1.2em;margin-top:0;margin-bottom:0">&nbsp;</div></body></html>
+------=_Part_298041_2059776901.1774875897556--

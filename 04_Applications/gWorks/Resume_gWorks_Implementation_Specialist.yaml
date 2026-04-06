@@ -1,0 +1,46 @@
+cv:
+  name: Isaiah Washington
+  location: Remote
+  email: isaiahwashington48@gmail.com
+  phone: 513.544.9022
+  social_networks:
+    - network: LinkedIn
+      username: isaiah-washington48
+    - network: GitHub
+      username: Izayauh
+  sections:
+    summary:
+      - Implementation Specialist with 4+ years of remote technical support experience guiding high-volume B2B clients toward successful technology adoption. Extensively skilled in configuring hardware workflows, coaching stakeholders through diagnostic transitions, and collaborating cross-functionally to refine processes. Possess a proactive and analytical mindset highly attuned to resolving municipal/enterprise deployment roadblocks rapidly.
+    experience:
+      - company: Nexus WiFi
+        position: Network Support Technician
+        location: Remote
+        start_date: 2021-10
+        end_date: present
+        highlights:
+          - Functioned as a primary point of contact for wide-scale hardware deployments, managing configuration guidance and onboarding for 150+ localized deployment networks. 
+          - Communicated actively with deployment and engineering teams to track hardware replacements, optimize delivery rollouts, and flag configuration blockers.
+          - Delivered proactive, hands-on troubleshooting coaching to localized property representatives to maximize new platform adoptions.
+      - company: Midway Auto Group
+        position: Administrative Assistant
+        location: Middletown, OH
+        start_date: 2019-01
+        end_date: 2023-12
+        highlights:
+          - Deployed and configured a structural inventory tracking paradigm integrating operations across the enterprise. 
+          - Improved the handoff of administrative data internally, leading to a significantly reduced operational ramp-up time for visibility tools.
+    projects:
+      - name: Impulse (WhisperLocal)
+        highlights:
+          - Architected a streamlined beta-release onboarding experience minimizing technical friction for user-installed hardware accelerated programs.
+          - Implemented proactive logging and issue diagnostics to guarantee smooth project lifecycles from installation to utilization.
+    skills:
+      - label: Implementation
+        details: Client Onboarding, SaaS Platform Deployment, Workflow Training, Project Tracking
+      - label: Strategy & Operation
+        details: Cross-Team Collaboration, Client Retention, Root-Cause Analysis, Coaching & Documentation
+    education:
+      - institution: Miami University
+        area: Business Management Technology Coursework (67 credit hours)
+        start_date: 2018-08
+        end_date: 2024-05

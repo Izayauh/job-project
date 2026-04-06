@@ -1,0 +1,78 @@
+=================================================================
+  MATCH REPORT
+=================================================================
+Resume:  Resume_Plaid_TSE_v4.pdf
+JD:      JD_Plaid_TSE.txt
+
+  OVERALL SCORE: 90/100
+
+  Hard Skills:  28/30 matched (93%)
+  Soft Skills:  15/15 matched (100%)
+  Word Count:   724
+  Job Title:    'Technical Support Engineer' — MATCHED
+  Neg. Words:   0 found
+
+-----------------------------------------------------------------
+  HARD SKILLS
+-----------------------------------------------------------------
+  Skill                            Resume       JD     Status
+  ------------------------------ -------- -------- ----------
+  data visualizations                   0        1    MISSING
+  data visualization                    0        1    MISSING
+  process improvement                   2        2         OK
+  technical projects                    1        1         OK
+  financial services                    4        2         OK
+  integration issues                    1        1         OK
+  technical support                     3        1         OK
+  ticketing systems                     2        1         OK
+  internal tools                        3        1         OK
+  documentation                         5        2         OK
+  troubleshoot                          4        1         OK
+  integration                           4        1         OK
+  javascript                            3        1         OK
+  root cause                            2        1         OK
+  rest apis                             2        1         OK
+  ticketing                             4        1         OK
+  rest api                              4        1         OK
+  zendesk                               1        2         OK
+  tooling                               4        1         OK
+  python                                4        1         OK
+  coding                                4        1         OK
+  java                                  3        1         OK
+  html                                  3        1         OK
+  apis                                  3        1         OK
+  jira                                  1        1         OK
+  css                                   4        1         OK
+  sql                                   2        1         OK
+  api                                   8        1         OK
+  go                                    5        3         OK
+  ai                                   18        5         OK
+
+-----------------------------------------------------------------
+  SOFT SKILLS
+-----------------------------------------------------------------
+  Skill                            Resume       JD     Status
+  ------------------------------ -------- -------- ----------
+  collaborative                         4        1         OK
+  collaboration                         4        1         OK
+  collaborate                           2        2         OK
+  customer-centric                      2        1         OK
+  customer-facing                       3        1         OK
+  customer needs                        3        1         OK
+  empathetic                            2        1         OK
+  time management                       1        1         OK
+  work independently                    1        1         OK
+  independently                         2        1         OK
+  self-starter                          1        1         OK
+  written and verbal communication        2        1         OK
+  brainstorming                         1        1         OK
+  cross-functionally                    1        1         OK
+  cross-functional                      2        1         OK
+
+-----------------------------------------------------------------
+  RECOMMENDATIONS
+-----------------------------------------------------------------
+  1. MISSING hard skill: 'data visualizations' (appears 1x in JD)
+  2. MISSING hard skill: 'data visualization' (appears 1x in JD)
+
+=================================================================

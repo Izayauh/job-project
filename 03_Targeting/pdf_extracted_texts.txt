@@ -1,0 +1,1225 @@
+
+
+--- Application Support Engineer _ STRATA Trust Company.pdf ---
+
+Share postCAREERS
+Application Support
+Engineer
+Mar 4, 2026
+ 
+Position summary
+Are you driven by innovation and inspired to build technology that makes a difference? As
+an Application Support Engineer at STRATA Trust, your primary focus is ensuring the
+reliability, stability and smooth operation of the applications that power our business. In
+addition to providing application support, you’ll contribute to targeted development
+efforts that enhance and modernize the systems you support. These engineering tasks are
+highly focused and directly tied to real business needs.📞Notice: We’re experiencing temporary phone issues. If you have trouble getting through, call 512-520-1450.4/6/26, 12:23 PM Application Support Engineer | STRATA Trust Company
+https://www.stratatrust.com/careers/application-support-engineer/ 1/8
+ 
+You’ll work closely with teams across the organization to diagnose issues, streamline
+workflows and deliver incremental improvements that make our systems more efficient
+and user ‑friendly.  Development work typically includes enhancements, automation,
+integration improvements, performance tuning, and feature extensions to existing
+applications.
+ 
+We’re looking for an engineer who brings curiosity, integrity and a service-first mindset to
+their work—someone who values teamwork, thrives on solving complex problems and
+takes pride in delivering stable, high-quality results that reflect STRATA’s commitment to
+excellence.
+ 
+Candidates must already reside in the Austin area or be willing to relocate prior to
+starting.  Remote or hybrid work is not available for this position.
+ 
+What success looks like
+Teamwork. You collaborate effectively across teams, sharing knowledge and ideas that
+move projects forward.
+Stability. The applications you design and maintain perform reliably and securely,
+supporting business continuity.
+Innovation. You approach challenges with creativity and resourcefulness, delivering
+innovative solutions that make work easier and smarter.
+Integrity. Your coworkers trust your expertise, knowing you deliver with transparency,
+consistency and accountability.
+Service-First. Your work enhances STRATA’s ability to provide an exceptional, client-
+centric experience. 
+ 4/6/26, 12:23 PM Application Support Engineer | STRATA Trust Company
+https://www.stratatrust.com/careers/application-support-engineer/ 2/8
+What will i do?
+This position is an integral part of our technology teams based in Austin, TX and will work
+cross-departmentally on all manner of concerns and needs. Key highlights:
+ 
+Primary Responsibilities – Application Support
+ 
+Application Stability & Issue Resolution
+Maintain, troubleshoot and support the organization’s applications – for example,
+STRATA’s core system, imaging and workflow system and eSign platform.
+Diagnose technical issues, perform root ‑ cause analysis and resolve incidents to
+ensure application availability and performance.
+Investigate logs, SQL data issues and integration failures to restore normal
+operations quickly.
+User & Business Team Support
+Engage directly with internal stakeholders to understand issues, reproduce
+problems and deliver solutions that improve accuracy and efficiency.
+Provide clear communication, updates and guidance as issues are investigated and
+resolved.
+Operational Maintenance
+Perform routine application health checks, monitor system behavior and
+proactively address stability risks.
+Follow change ‑ control processes, support deployments, assist in UAT and verify
+successful releases.
+Documentation & Process Improvement
+Create and maintain troubleshooting guides, internal documentation and
+repeatable processes to reduce ongoing support load.
+Identify recurring issues and recommend preventative improvements.4/6/26, 12:23 PM Application Support Engineer | STRATA Trust Company
+https://www.stratatrust.com/careers/application-support-engineer/ 3/8
+ 
+Secondary Responsibilities – Software Development - Development work represents
+roughly 20–35% of the role and typically involves enhancements or fixes to existing
+systems rather than full application builds.
+ 
+Enhancements & Fixes
+Design, develop, test and manage small to medium ‑ sized software-based solutions
+to real business problems, primarily for internal stakeholders.
+Perform bug fixes, code adjustments and incremental improvements in existing
+applications.
+Technical Collaboration
+Coordinate with other developers working simultaneously on different features or
+system areas.
+Contribute code or technical input when enhancements relate to the systems you
+support.
+ 
+Am I the right fit?
+Specific requirements include:
+Minimum: BA/BS and 2+ years of experience; or the equivalent combination of
+education and experience, which demonstrates the knowledge, skills and abilities to
+perform the job duties of this position.
+Ability and willingness to work in-person at our offices in Austin, TX.
+2+ years interacting with databases and associated languages like SQL.
+Experience directly supporting all phases of software development lifecycles.
+3+ years programming in object-oriented language like C#, C++, or high proficiency
+with other popular languages (JavaScript, Python, Go, etc.).4/6/26, 12:23 PM Application Support Engineer | STRATA Trust Company
+https://www.stratatrust.com/careers/application-support-engineer/ 4/8
+Working knowledge of version control systems like Git or Bitbucket.
+This is not a full ‑ stack development role.
+ 
+Desired qualifications:
+Skill in presentation, demonstrating features to clients and accepting critical feedback.
+Familiar with the Atlassian stack – JIRA, Confluence and/or Bitbucket
+Experience in independently managing projects and project backlog for software
+solutions
+Familiar with Imaging and Workflow systems – Laserfiche
+Exposure to posting requests to Web API services, parsing results and handling errors.
+Understanding of contemporary web standards - HTML5, JavaScript, CSS.
+Familiarity with modern frameworks - Angular, Node, ASP.Net.
+Expertise in secure front and back-end design, i.e., sanitizing user inputs and
+protecting secrets.
+ 
+What does it mean to be on the
+strata team?
+Our commitment to our employees goes beyond base pay—it includes the tangible things
+like salary, benefits, and special employee programs such as training & development,
+wellness, and flexible sick time. Equally important are the intangible factors like
+challenging work, a community-focused mindset, and the opportunity to grow
+professionally. We do not hire resources; we invest in people.
+ 
+Benefits available to you include: 4/6/26, 12:23 PM Application Support Engineer | STRATA Trust Company
+https://www.stratatrust.com/careers/application-support-engineer/ 5/8
+Health coverage options including Medical, Dental and Vision
+Wellness Program that incentivizes you with premium cost savings
+Employee Assistance Program to help you with life’s challenges
+Basic Group term Life and AD&D to protect you and your family
+The opportunity to become a shareholder of the Bank through our 401k Retirement
+Plan
+Discounts on Pet Insurance
+Time off policies meant to support your work-life balance 
+ 
+ 
+Interested?
+This is a great opportunity to grow your career! If you think that you could be the perfect
+fit, please apply now. Submit your resume and contact information for consideration. 
+ 
+Good luck and we look forward to hearing from you!
+ 
+At STRATA, we recognize that diverse perspectives and experiences drive innovation and
+success. We operate within a merit-based framework that fosters inclusivity and
+belonging, ensuring all individuals have the opportunity to contribute, develop and thrive.
+We seek talented, qualified individuals for all career opportunities, without regard to any
+status protected under federal, state, or local law. STRATA Trust Company, Inc. is proud to
+be an Equal Employment Opportunity Employer.
+ 
+ 
+ 
+ 4/6/26, 12:23 PM Application Support Engineer | STRATA Trust Company
+https://www.stratatrust.com/careers/application-support-engineer/ 6/8
+New to STRATA?
+Already have an account?
+Subscribe to STRATA Insights
+First name Last name
+Email address
+IndividualProfessional
+Let's Connect
+Client SupportApply now4/6/26, 12:23 PM Application Support Engineer | STRATA Trust Company
+https://www.stratatrust.com/careers/application-support-engineer/ 7/8
+Get Started
+Contact Us
+Self-Directed IRAs
+Financial ProfessionalsInsights Blog
+Resource Center
+FAQs
+Why STRATA
+STRATA Trust Company (“STRATA”) performs the duties of a directed (passive) custodian, and as such does not provide due diligence to third parties
+regarding prospective investments, platforms, sponsors, dealers or service providers. As a custodian, STRATA does not sponsor, endorse or sell any
+investment and is not affiliated with any investment sponsor, issuer or dealer. STRATA does not provide investment, legal or tax advice. Individuals
+should consult with their investment, legal or tax professionals for such services.
+© 2025 STRATA Trust Company. All Rights Reserved.
+Terms & Conditions |Accessibility Policy |Privacy Policy |Complaint Information |Security Policy
+Investment Products: Not FDIC-Insured |No Bank Guarantee |May Lose Value
+4/6/26, 12:23 PM Application Support Engineer | STRATA Trust Company
+https://www.stratatrust.com/careers/application-support-engineer/ 8/8
+
+
+--- Careers at Connecteam_Customer_Support_rep.pdf ---
+
+All open positions
+Customer Support Representative
+Support| Texas, United States
+Who Connecteam is:
+Connecteam is a fast-growing startup on a mission to change the mobile and low
+tech employees workforce experience. With over 2.7B remotely workers across the
+globe, the challenges and capabilities for advancement are endless. Our business
+management platform helps thousands of businesses thrive by taking away the daily
+hustle and complexities of managing teams, so they can have the peace of mind to
+grow and run their business. 
+As we have already expanded to Australia, we are excited to announce the opening of
+a new location in NY. There is a great opportunity to work with a successful company
+with a large customer community and huge potential for growth.
+If you are enthusiastic about technology, customer satisfaction, and enjoy problem-
+solving, we encourage you to join our team and make a meaningful impact on the
+success of our customers and the company.
+About the Job:
+As a Customer Support Representative you will be part of a team, dedicated to
+effectively communicating with our clients. The team is responsible for ensuring that
+our clients are utilizing the app in the best way possible, helping them troubleshoot
+and solve day-to-day problems while enhancing customer satisfaction. During your
+day-to-day, you will communicate with our clients by taking care of incoming tickets
+Start for free4/6/26, 1:01 PM Careers at Connecteam
+https://connecteam.com/careers/5588029004/?gh_src=null 1/7
+and prioritize effectively to ensure clients get the best service. Working hours will be
+10:00am to 6:00pm, with one shift of 12:00pm to 8:00pm.
+Your main responsibilities will include:
+What we require:
+Let's work towards success as a team!Being the main point of contact for our customers through various communication
+channels to ensure their success and satisfaction.•
+Delivering fast service while maintaining a high performance level.  •
+Educating the clients on the best practices in Connecteam according to their
+business needs.•
+Providing live feedback to the Customer Success team regarding missing
+capabilities, feature requests, time spenders, etc.•
+At least 1 year of experience in a customer support role or client facing environment
+(provided support in writing).•
+Superb written and verbal communication skills. •
+Service-oriented personality with a can-do attitude and strong problem-solving
+skills.•
+Tech-savvy with a Startup mentality that includes working in a dynamic and fast
+paced environment.•
+A team player that enjoys getting and providing feedback, sharing ideas, and
+constantly improving together.•
+Positive attitude, empathy, and high energy! •
+Independency and time management skills.  •
+Ability to work remotely from Mon-Fri - must. •
+Our company offers a remote working model. •
+We provide comprehensive Training & Development, including a structured
+onboarding process that will bring you up to speed on everything you need to
+know. This will give you a solid platform to launch your career from.•4/6/26, 1:01 PM Careers at Connecteam
+https://connecteam.com/careers/5588029004/?gh_src=null 2/7
+What We Offer:
+Benefits:
+Salary range: 50K-60K
+We are accepting applications from employees working in the following states:
+Texas, South Carolina, North Carolina, Colorado, Florida, Utah, and Georgia.
+Joining Connecteam Is The Smart Move:We are committed to your success and will provide you with a Mac laptop and any
+necessary equipment to ensure you have the tools you need to excel.•
+Medical coverage. •
+Insurance plan. •
+Paid time off for vacation, sick days. •
+We build our people up. Every team member is treated as a long-term investment
+and we recognize the value in always nurturing and training them so they can go
+above and beyond in their skills and job duties.•
+We make an impact on our customer’s business. We are on a mission to provide
+managers of all business types and sizes with the tools they need to communicate,
+operate, engage, and run their deskless workforce. Our product offers them an
+effective and affordable solution to run their business.•
+We get the job done. Connecteam employees are passionate in executing their job
+duties so they can drive the company forward and provide real value to our
+customers. •
+We have fun! From weekly happy hours to holiday parties, we always enjoy each
+other’s company (and good food, of course). Connecteam is like one big, happy
+family!•
+Everyone is welcome. Connecteam is committed to building an encouraging,
+caring, and supportive environment. We share a responsibility to support our team
+and enrich their lives. •4/6/26, 1:01 PM Careers at Connecteam
+https://connecteam.com/careers/5588029004/?gh_src=null 3/7
+Together we will shape the future of work!
+Our privacy policy
+All open positions4/6/26, 1:01 PM Careers at Connecteam
+https://connecteam.com/careers/5588029004/?gh_src=null 4/7
+Create a Job Alert
+Interested in building your career at Connecteam? Get future opportunities
+sent straight to your email.
+Create alert
+Apply for this job
+*indicates a required field
+Country*
+Resume/CV*
+Accepted file types: pdf, doc, docx, txt, rtf
+Do you have at least 1 year of experience in a customer support role at a SaaS company?
+*Autofill with MyGreenhouse
+First Name*
+Last Name*
+Email*
+Phone*
+Attach
+Enter manually
+LinkedIn Profile*
+Select...4/6/26, 1:01 PM Careers at Connecteam
+https://connecteam.com/careers/5588029004/?gh_src=null 5/7
+Are you located in any of the following states: Texas, New York, South Carolina, North
+Carolina, Colorado, Florida, Utah, or Georgia?*
+Are you authorized to work in this location now and in the future without requiring
+sponsorship?*Select...
+Do you have experience with any of these tools at your job? Hubspot, intercom, Zendesk,
+Salesforce, Jira. If so, please specify the tools you have experience with.*
+Select...
+What are your salary expectations? *
+Submit application
+Product
+Platform New4/6/26, 1:01 PM Careers at Connecteam
+https://connecteam.com/careers/5588029004/?gh_src=null 6/7
+DPAGDPR ReadyPrivacyTermsSubprocessorsAccessibilityTrust Center
+Cookies Policy
+All Rights Reserved © Connecteam.comSolutions
+Industries
+Company
+Resources4/6/26, 1:01 PM Careers at Connecteam
+https://connecteam.com/careers/5588029004/?gh_src=null 7/7
+
+
+--- Implementation Specialist, Benefits_Ripplling.pdf ---
+
+Current OpeningsImplementation Specialist, Beneﬁts
+Implementation Specialist, Benefits
+Implementation
+Remote (United States)
+Austin, TX
+Share on:
+
+About Rippling
+Rippling is the first way for businesses to manage all of their HR & IT—payroll, benefits, 
+computers, apps, and more—in one unified workforce platform.
+By connecting every business system to one source of truth for employee data, businesses 
+can automate all of the manual work they normally need to do to make employee changes. 
+Take onboarding, for example. With Rippling, you can just click a button and set up a new 
+employees’ payroll, health insurance, work computer, and third-party apps—like Slack, Zoom, 
+and Office 365—all within 90 seconds.
+Based in San Francisco, CA, Rippling has raised $1.2B from the world's top investors—
+including Kleiner Perkins, Founders Fund, Sequoia, Bedrock, and Greenoaks—and was 
+named one of America's best startup employers by Forbes (#12 out of 500).
+About the role
+This is an exciting opportunity to be a foundational member of Rippling’s Benefits 
+Implementation team!
+As an Implementation Specialist, Benefits, you will be an implementation partner for brokers 
+and clients. You will be responsible for understanding their technical requirements, building 
+custom insurance plans, and troubleshooting. You will manage an evolving book of business 
+and be the internal go-to for all things related to Benefits.  Apply now4/6/26, 12:56 PM Implementation Specialist, Benefits
+https://ats.rippling.com/rippling/jobs/b847ba54-5e1c-46f5-9fd1-78b6bdeb3ce7 1/3
+The Benefits implementation  team at Rippling is growing- along with our focus on our 
+Brokers and our BenAdmin product. This role offers a unique opportunity to not only 
+implement partners/clients but also work closely with cross-functional teams to build and 
+scale Rippling’s Benefits offering. 
+What you will do 
+Become a Rippling Benefits expert - You’ll be a go to resource for our brokers/clients 
+within 60 days and a benefits subject matter expert for your Rippling colleagues within 
+90 days
+Be a trusted implementation partner to our brokers and clients:
+You’ll need to understand the broker’s and/or client’s requirements as it relates to 
+insurance
+You’ll need to build custom plans within the Rippling environment that meet 
+brokers’ or clients’ needs. This includes importing enrollment data, reviewing 
+insurance plans and occasionally assisting with deductions issues
+You’ll work closely with Implementation and the rest of the Customer Experience 
+organization to ensure the broker and client is set up for success
+Partner with our Insurance Ops, Customer Experience and Product teams to evolve our 
+process and product
+Develop and document benefits implementation processes and  best practices
+What you will need
+A passion and curiosity for all things related to Benefits
+3+ years of experience either in an Insurance brokerage firm or in the Implementation 
+space- specializing in Benefits
+A license in Life, Accident & Health or Sickness (Life Agent) is a plus
+Strong project management and organizational skills: high attention to detail with 
+excellent time management skills
+Ability to manage broker and client relationship: strong communication and 
+presentation skills
+Self-starter with a bias towards action, energized by a fast-paced environment and 
+excited to build4/6/26, 12:56 PM Implementation Specialist, Benefits
+https://ats.rippling.com/rippling/jobs/b847ba54-5e1c-46f5-9fd1-78b6bdeb3ce7 2/3
+Terms of servicePrivacyCookiesPowered by
+RipplingThe pay range for this role is:
+71,400 - 113,050 USD per year (US Tier 3)
+75,600 - 119,700 USD per year (US Tier 2)Additional information
+Rippling is an equal opportunity employer. We are committed to building a diverse and 
+inclusive workforce and do not discriminate based on race, religion, color, national origin, 
+ancestry, physical disability, mental disability, medical condition, genetic information, marital 
+status, sex, gender, gender identity, gender expression, age, sexual orientation, veteran or 
+military status, or any other legally protected characteristics, Rippling is committed to 
+providing reasonable accommodations for candidates with disabilities who need assistance 
+during the hiring process. To request a reasonable accommodation, please email 
+accomodations@rippling.com
+Rippling highly values having employees working in-office to foster a collaborative work 
+environment and company culture.  For office-based employees (employees who live within 
+a 40 mile radius of a Rippling office), Rippling considers working in the office, at least three 
+days a week under current policy, to be an essential function of the employee's role.
+This role will receive a competitive salary + benefits + equity. The salary for US-based 
+employees will be aligned with one of the ranges below based on location; see which tier 
+applies to your location here.
+A variety of factors are considered when determining someone’s compensation–including a 
+candidate’s professional background, experience, and location. Final offer amounts may vary 
+from the amounts listed below.
+#li-remote #li-hybrid
+Apply now
+United States (English)4/6/26, 12:56 PM Implementation Specialist, Benefits
+https://ats.rippling.com/rippling/jobs/b847ba54-5e1c-46f5-9fd1-78b6bdeb3ce7 3/3
+
+
+--- Implementation Specialist, IT_rippling.pdf ---
+
+Current OpeningsImplementation Specialist, IT
+Implementation Specialist, IT
+Implementation
+Remote (United States)
+Share on:
+
+About Rippling
+Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of the workforce 
+systems that are normally scattered across a company, like payroll, expenses, benefits, and 
+computers. For the first time ever, you can manage and automate every part of the employee 
+lifecycle in a single system.
+Take onboarding, for example. With Rippling, you can hire a new employee anywhere in the world 
+and set up their payroll, corporate card, computer, benefits, and even third-party apps like Slack and 
+Microsoft 365—all within 90 seconds.
+Based in San Francisco, CA, Rippling has raised $1.2B from the world’s top investors—including 
+Kleiner Perkins, Founders Fund, Sequoia, Greenoaks, and Bedrock—and was named one of 
+America's best startup employers by Forbes.
+About the role
+As an Implementation Specialist, IT you will partner with our largest customers (US and Global). You 
+will be working with our customers’ IT departments to understand their requirements and guide/train 
+them to adopt our Apps, Devices, Identity, and Inventory Management Solutions. You will manage an 
+evolving book of business and be the internal go-to for all things related to Rippling’s IT solution.Apply now4/6/26, 12:55 PM Implementation Specialist, IT
+https://ats.rippling.com/rippling/jobs/c92d6b7d-3c78-4f3c-ac0a-9a95b8e28e72 1/3
+The IT implementation team at Rippling is growing, along with our focus on our IT solutions. This role 
+offers a unique opportunity to not only work with our largest customers but also work cross-
+functionally to improve our product, adoption, and customer experience for IT.
+What you will do 
+Become an expert on Rippling’s IT offering- You’ll be a go-to resource for our clients within 30 
+days and an IT subject matter expert for your Rippling colleagues within 60 days.
+Be a trusted implementation partner to our clients:
+You’ll need to understand the client’s current technology requirements as it relates to 
+Rippling.
+You’ll need to guide the customer to install and adopt Rippling’s IT solutions
+You’ll need to train the customer on Rippling IT products
+You’ll work closely with Implementation and the rest of the Customer Experience 
+organization to ensure the client is set up for success.
+Partner with our Solutions Consulting, Implementation, and Product teams to evolve our 
+process and product
+Develop and document IT implementation processes and best practices. 
+What you will need
+A passion and curiosity for all things related to IT
+4+ years of experience managing an IT set-up at a company, helping customers implement IT 
+products, or selling IT solutions. This role requires a strong understanding of the below:
+Fleet Management, UEM, RMM, MDM, device and identity provisioning, Zero Touch, and 
+Endpoint Lifecycle Management. Familiarity with other IT products such as Google, 
+Azure and Okta.
+Strong project management and organizational skills: high attention to detail with excellent time 
+management skills.
+Ability to manage client relationships: strong communication and presentation skills
+Self-starter with a bias towards action, energized by a fast-paced environment and excited to 
+build
+Additional information
+Rippling is an equal opportunity employer. We are committed to building a diverse and inclusive 
+workforce and do not discriminate based on race, religion, color, national origin, ancestry, physical 
+disability, mental disability, medical condition, genetic information, marital status, sex, gender, 
+gender identity, gender expression, age, sexual orientation, veteran or military status, or any other 
+legally protected characteristics, Rippling is committed to providing reasonable accommodations for 4/6/26, 12:55 PM Implementation Specialist, IT
+https://ats.rippling.com/rippling/jobs/c92d6b7d-3c78-4f3c-ac0a-9a95b8e28e72 2/3
+Terms of servicePrivacyCookiesPowered by
+RipplingThe pay range for this role is:
+58,320 - 92,000 USD per year (US Tier 2)
+55,080 - 87,000 USD per year (US Tier 3)candidates with disabilities who need assistance during the hiring process. To request a reasonable 
+accommodation, please email  accommodations@rippling.com. 
+Rippling highly values having employees working in-office to foster a collaborative work environment 
+and company culture.  For office-based employees (employees who live within a 40 mile radius of a 
+Rippling office), Rippling considers working in the office, at least three days a week under current 
+policy, to be an essential function of the employee's role.
+This role will receive a competitive salary + benefits + equity. The salary for US-based employees will 
+be aligned with one of the ranges below based on location; see which tier applies to your location 
+here.
+A variety of factors are considered when determining someone’s compensation–including a 
+candidate’s professional background, experience, and location. Final offer amounts may vary from 
+the amounts listed below.
+#li-remote
+Apply now
+United States (English)4/6/26, 12:55 PM Implementation Specialist, IT
+https://ats.rippling.com/rippling/jobs/c92d6b7d-3c78-4f3c-ac0a-9a95b8e28e72 3/3
+
+
+--- Job Application for Technical Support Engineer, Austin, NY at Postman.pdf ---
+
+Back to jobs
+Technical Support Engineer, Austin,
+NY
+Austin, Texas, United States; New York, New York, United States
+Who Are We?
+Postman is the worldʼs leading API platform, used by more than 45 million+ developers and
+500,000 organizations, including 98% of the Fortune 500. Postman is helping developers
+and professionals across the globe build the API-first world by simplifying each step of the
+API lifecycle and streamlining collaboration—enabling users to create better APIs, faster.
+The company is headquartered in San Francisco and has offices in Boston, New York,
+Austin, Tokyo, London, and Bangalore - where Postman was founded. Postman is privately
+held, with funding from Battery Ventures, BOND, Coatue, CRV, Insight Partners, and Nexus
+Venture Partners. Learn more at postman.com or connect with Postman on X via
+@getpostman.
+P.S: We highly recommend reading The "API-First World" graphic novel to understand the
+bigger picture and our vision at Postman.
+The Opportunity 
+Apply4/6/26, 12:28 PM Job Application for Technical Support Engineer, Austin, NY at Postman
+https://job-boards.greenhouse.io/postman/jobs/7631809003 1/5
+We seek a Technical Support Engineer to join our team and deliver excellent service for a
+leading global SaaS company with millions of users. You will engage with customers, both
+technical and non-technical, on a personal level, across multiple support channels—
+including phone support. Familiarity with key languages like JavaScript, Node.js, and PHP is
+highly valued. Don't hesitate to apply even if you don't meet all the requirements—we
+welcome applicants from diverse backgrounds, including those without customer-facing
+experience.
+Location requirement: This role is open to candidates based in Austin, TX or New York,
+NY.
+Timezone alignment: This role is aligned to US Eastern Time (ET).
+What Youʼll Do
+Becoming a technical expert on the Postman platform
+Taking ownership of customer reported issues and seeing problems through to
+resolution
+Researching, diagnosing, troubleshooting, and identifying solutions to resolve
+customer issues
+Working with engineering, product, and customer teams to ensure speedy resolution
+Streamline process, run experiments, build/maintain internal tools, build proofs-of-
+concepts for users
+Contributing to our FAQs, which serve as our customerʼs knowledge base
+Interacting with Postman's developer community of 15 million+ via our support
+channels, our public Github issue tracker and the community
+Achieving key metrics around CSAT, responsiveness, and # of iterations to a
+successful resolution
+Providing real-time customer support via phone (and/or screen-sharing when
+appropriate), including triage, troubleshooting, escalation coordination, and clear
+follow-ups in writing
+Participating in weekend coverage to support customers outside of standard weekday
+hours, ensuring consistent responsiveness and handoffs across a globally distributed
+team
+About You
+2+ years of experience doing technical product support for a modern / SaaS product
+Previous experience with API Development / SaaS products
+Excellent client-facing skills4/6/26, 12:28 PM Job Application for Technical Support Engineer, Austin, NY at Postman
+https://job-boards.greenhouse.io/postman/jobs/7631809003 2/5
+Excellent written and verbal communication skills
+Very comfortable with technical concepts, great analytical skills, and can explain how
+Postman works to a range of audiences
+Familiarity with software products in general, basics of networking, fundamentals of
+REST APIs, and how the web works
+Able to work asynchronously with a globally-distributed team
+Familiarity with support platforms like Jira, Github, and Confluence
+Comfortable providing customer support over the phone, including explaining
+technical concepts live, guiding troubleshooting steps, and maintaining a calm,
+structured approach during high-urgency issues
+Able to work standard hours aligned to US Eastern Time (ET)
+Participate in weekend coverage as part of the role (via a rotating schedule or shifted
+week); timing and frequency may evolve as the team grows
+The reasonably estimated base salary for this role ranges from $67,400 to $91,000, plus a
+competitive equity package. Actual compensation is based on the candidate's skills,
+qualifications, and experience.
+What Else?
+In addition to Postman's pay-on-performance philosophy, and a flexible schedule working
+with a fun, collaborative team, Postman offers a comprehensive set of benefits, including
+full medical coverage, flexible PTO, wellness reimbursement, and a monthly lunch stipend.
+Along with that, our wellness programs will help you stay in the best of your physical and
+mental health. Our frequent and fascinating team-building events will keep you connected,
+while our donation-matching program can support the causes you care about. Weʼre
+building a long-term company with an inclusive culture where everyone can be the best
+version of themselves. 
+At Postman we value in person collaboration. We are in office 5 days a week for all roles
+based out of our hubs in San Francisco Bay Area, Boston, Austin, Tokyo and London. For
+roles based in Bangalore, employees currently work in the office three days a week and will
+transition to five days per week by the end of the year. We were thoughtful in our approach
+which is based on collaboration and grounded in feedback from our workforce, leadership
+team, and peers. The benefits of our in office model will be shared knowledge,
+brainstorming sessions, communication, and building trust in-person that cannot be
+replicated via zoom.
+Our Values4/6/26, 12:28 PM Job Application for Technical Support Engineer, Austin, NY at Postman
+https://job-boards.greenhouse.io/postman/jobs/7631809003 3/5
+At Postman, we create with the same curiosity that we see in our users. We value
+transparency and honest communication about not only successes, but also failures. In our
+work, we focus on specific goals that add up to a larger vision. Our inclusive work culture
+ensures that everyone is valued equally as important pieces of our final product. We are
+dedicated to delivering the best products we can.
+Equal opportunity
+Postman is an Equal Employment Opportunity and Affirmative Action Employer. Qualified
+applicants will receive consideration for employment without regard to race, color, religion,
+sex, sexual orientation, gender perception or identity, national origin, age, marital status,
+protected veteran status, or disability status. Headhunters and recruitment agencies may
+not submit resumes/CVs through this website or directly to managers. Postman does not
+accept unsolicited headhunter and agency resumes. Postman will not pay fees to any third-
+party agency or company that does not have a signed agreement with Postman.
+Create a Job Alert
+Interested in building your career at Postman? Get future opportunities sent
+straight to your email.
+Create alert
+Apply for this job
+*indicates a required field
+Country*Autofill with MyGreenhouse
+First Name*
+Last Name*
+Email*
+Phone*4/6/26, 12:28 PM Job Application for Technical Support Engineer, Austin, NY at Postman
+https://job-boards.greenhouse.io/postman/jobs/7631809003 4/5
+Resume/CV*
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Accepted file types: pdf, doc, docx, txt, rtf
+Powered byAttach
+Enter manually
+Attach
+Enter manually
+LinkedIn Profile*
+Submit application4/6/26, 12:28 PM Job Application for Technical Support Engineer, Austin, NY at Postman
+https://job-boards.greenhouse.io/postman/jobs/7631809003 5/5
+
+
+--- Job opportunity_ Prompt Engineer_ Sensi.AI ---
+
+We’re
+Hiring
+← All Jobs
+Prompt Engineer
+Austin TX · Full-time
+About The Position
+Wh y Join Sensi.AI
+Sensi.AI is transforming the world of home care through agentic AI - and
+we’re just getting started. As a hyper-growth startup, every team member
+has the opportunity to make a real impact on people’s lives while working as
+part of a global, collaborative team in a flexible hybrid environment.
+About the RoleProduct Customers Reviews Resources Company Log In
+Book a Demo
+Home Care Agencies
+ Seniors & Families
+ Facilities4/6/26, 12:26 PM Job opportunity: Prompt Engineer
+https://www.sensi.ai/careers/co/austin-tx/C6.762/prompt-engineer/all/ 1/5
+We are looking for a Prompt Engineer to design, optimize, and continuously
+improve multi-turn conversational experiences across multiple Sensi.AI
+product lines. This role combines linguistic creativity, AI prompt engineering,
+and real-world experimentation. 
+You’ll work closely with product managers, who will provide requirements and
+prioritization, while you focus on crafting and iterating prompts, testing in
+real-world scenarios, and delivering natural, trustworthy interactions.
+This role is based in Austin, TX, with a hybrid work setup, combining in-office
+collaboration with remote flexibility.
+Key Responsibilities
+Conversational Design and Promp ting
+Design multi turn dialogue flows for text and voice agents with context
+awareness and memory handling. Define personalities and tone across
+products and agents.
+Create multilingual prompt strategies and develop reusable templates
+and frameworks to speed development.
+Continuous Testing and Imp rovement
+Test prompts with recordings, transcripts, and simulations before and
+after launch. Analyze live interactions to spot hallucinations, tone issues,
+dead ends, and token inefficiency.
+Iterate quickly to improve quality, safety, and naturalness and use
+analytics and qualitative insights to measure success.
+Collaboration and Delivery
+Partner with product managers on requirements and goals and work with
+engineers to integrate prompts within technical constraints.
+Coordinate updates across multiple agents with version control for a
+unified experience and support compliance and privacy standards.
+Docume ntation and Knowledge Sharing
+Maintain a prompt library with flows, system prompts, and version history
+and set guidelines for tone, multilingual consistency, and testing.
+Share insights and learnings with the broader product and AI teams.
+RequirementsProduct Customers Reviews Resources Company Log In
+Book a Demo
+Home Care Agencies
+ Seniors & Families
+ Facilities4/6/26, 12:26 PM Job opportunity: Prompt Engineer
+https://www.sensi.ai/careers/co/austin-tx/C6.762/prompt-engineer/all/ 2/5
+Proven experience designing multi-turn conversational systems, such as
+chatbots, voice assistants, or customer service agents.
+Strong skills in prompt engineering techniques (e.g., few-shot, chain-of-
+thought, RAG pipelines).
+Ability to define consistent, persona-driven conversational styles across
+multiple agents and products.
+Familiarity with LLM APIs (OpenAI, Anthropic, etc.) and conversational
+frameworks (e.g., LangChain).
+Excellent writing and linguistic skills, with attention to tone, clarity, and
+cultural sensitivity.
+Basic programming skills (Python preferred) for testing and prototyping
+prompts.
+Nice-to-Have
+Background in healthcare, caregiving, or other regulated industries.
+Multi-lingual proficiency.
+Sensi celebrates diversity and uphold equal opportunity in our hiring
+practices. Our approach fosters an inclusive environment that sparks
+innovation and reflects the vibrant communities we serve. All persons shall
+have the opportunity to be considered for employment without regard to any
+characteristic protected by applicable federal, state, or local laws and
+ordinances.
+Apply for this positionProduct Customers Reviews Resources Company Log In
+Book a Demo
+Home Care Agencies
+ Seniors & Families
+ Facilities4/6/26, 12:26 PM Job opportunity: Prompt Engineer
+https://www.sensi.ai/careers/co/austin-tx/C6.762/prompt-engineer/all/ 3/5
+It looks like your browser is blocking it. To use this feature, please disable content or tracking blockers and
+refresh the page.
+Fields marked with * are mandatory.
+Apply with LinkedIn is unavailable
+First name *
+Last name *
+Email *
+Phone *
+Resume * Attach Resume
+Cover Letter Attach Cover Letter
+Portfolio Attach Portfolio
+Personal note
+Salary Expectations
+Please describe your salary expectations for a full-time
+position *
+You can write the minimum or a range.
+US Work Authorization
+Are you authorized to work in the US without visaProduct Customers Reviews Resources Company Log In
+Book a Demo
+Home Care Agencies
+ Seniors & Families
+ Facilities4/6/26, 12:26 PM Job opportunity: Prompt Engineer
+https://www.sensi.ai/careers/co/austin-tx/C6.762/prompt-engineer/all/ 4/5
+y
+sponsorship? *
+Salary ExpectationsYes
+My workplace provides my work Visa 
+No
+I agree that you can keep my data for an extended time
+period so that it will be easier for you to contact me about
+jbtiti
+Employee at Sensi.AI?
+ (http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.sensi.ai%2Fcaree  (https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.s  (https://twitter.com/intent/tweet?url=https%3A%2F%2F  (http://pinterest.com/pin/create/bu  (mailto:?subje
+contactus@sensi.ai
+Sensi HQ
+701 Brazos Street
+Austin, Texas 78701Product
+What’s
+SensiResources
+Care Intelligence
+Digest
+Blog
+In the Press
+Seniors & FamiliesCompany
+About Us
+Careers
+Contact Us
+ 
+Privacy
+Terms
+of Use
+© Copyright
+Sensi.AI 2026Product Customers Reviews Resources Company Log In
+Book a Demo
+Home Care Agencies
+ Seniors & Families
+ Facilities4/6/26, 12:26 PM Job opportunity: Prompt Engineer
+https://www.sensi.ai/careers/co/austin-tx/C6.762/prompt-engineer/all/ 5/5
+
+
+--- Join Our Team _ Careers at gWorks_ Empowering Municipal Excellence.pdf ---
+
+Join Our Team and
+Empower Public
+Service Excellence
+Discover exciting career opportunities at
+gWorks and become part of the dynamic
+team dedicated to transforming public
+service through innovation and impact.
+ View open positions
+Your Benefits at gWorks
+Competitive Compensation Packages Vacation, Paid Time Off, & Work From
+HomeInterested in learning more about ULOCO by gWorks?Click here
++1
+(888)-608
+7666ProductsSolutionsCompanyResources
+Skip to main contentYour Privacy is important to us
+Customize your cookie preferences or click “Accept All” to agree to
+the storing of cookies on your device. View our Privacy Policy for
+more information.
+PreferencesAccept AllDeny4/6/26, 12:59 PM Join Our Team | Careers at gWorks: Empowering Municipal Excellence
+https://www.gworks.com/company/careers?gnk=job&gni=8a7887b29b1375ee019bdeed15d16dd4&lang=en 1/9
+SEE YOURSELF HERE
+Open PositionsEXPAND
+Health Insurance & HSA
+EXPAND
+Paid Parental Leave for New Parents
+EXPAND
+Celebrations & Prizes
+EXPAND
+Food & Swag!
+EXPANDEmployer Funded Short-Term
+Disability, Life Insurance & Voluntary
+Ancillary Insurance
+EXPAND
+Merit-Based Bonuses
+EXPAND
+401(k) match
+EXPAND
+We are always looking for talented and driven
+individuals to join our team! View our open positions
+below or check out our LinkedIn Page for updates and
+openings.
++1
+(888)-608
+7666ProductsSolutionsCompanyResources
+Skip to main contentYour Privacy is important to us
+Customize your cookie preferences or click “Accept All” to agree to
+the storing of cookies on your device. View our Privacy Policy for
+more information.
+PreferencesAccept AllDeny4/6/26, 12:59 PM Join Our Team | Careers at gWorks: Empowering Municipal Excellence
+https://www.gworks.com/company/careers?gnk=job&gni=8a7887b29b1375ee019bdeed15d16dd4&lang=en 2/9
+Implementation Specialist
+About gWorks:
+gWorks builds software that helps small local governments work better. Our clients are public
+servants, city clerks, utility billing staff, public works teams, and county administrators. These are
+the folks who keep their communities running smoothly. Their work is essential, but often
+constrained by outdated tools.
+We fix that. Our cloud-based platform replaces legacy systems with simple, integrated software
+built specifically for small governments. We serve thousands of communities nationwide,
+streamlining operations, improving service delivery, and making day-to-day work more
+manageable.
+We’re consolidating several acquired products into one platform and guiding our clients through
+this transition. It’s complex, important work that requires a team that can execute at a high level to
+help drive that transformation.
+The Role:
+As an Implementation Specialist, you’ll be the primary guide for clients adopting gWorks
+software. From project kickoff to go-live and seamless handoff to Client Success, you’ll combine
+technical expertise with strong client relationship skills to ensure every onboarding experience is
+smooth, impactful, and sets clients up for long-term success.
+This is a great role for someone who thrives in a client-facing environment, has strong
+organizational and technical skills, and is passionate about helping others unlock value from
+technology.
+Key Responsibilities:
+Lead Onboarding Projects
+Guide clients through adoption of gWorks software modules — including Utility Billing,
+Accounting, General Ledger, Accounts Payable, Bank Reconciliation, Payroll, Mapping, and
+Citizen Engagement.
+Be the Main Point of Contact
+Act as the trusted partner for clients during onboarding, providing clarity, continuity, and
+expertise from kickoff through handoff.
+Configure & Optimize
+ConfiguresoftwaretoalignwithgWorks’bestpracticesandtheclient’spoliciesensuring
++1
+(888)-608
+7666ProductsSolutionsCompanyResources
+Skip to main contentYour Privacy is important to us
+Customize your cookie preferences or click “Accept All” to agree to
+the storing of cookies on your device. View our Privacy Policy for
+more information.
+PreferencesAccept AllDeny4/6/26, 12:59 PM Join Our Team | Careers at gWorks: Empowering Municipal Excellence
+https://www.gworks.com/company/careers?gnk=job&gni=8a7887b29b1375ee019bdeed15d16dd4&lang=en 3/9
+Configure software to align with gWorks best practices and the clients policies, ensuring
+accurate setup and smooth workflows.
+Coach for Success
+Provide hands-on training and coaching to help clients adopt product features, maximize
+utilization, and see value quickly.
+Track & Analyze
+Monitor onboarding project progress, gather client feedback, and analyze data to measure
+success, identify risks, and improve processes.
+Collaborate Cross-Functionally
+Partner with Product, Client Success, and Support teams to share insights, resolve issues, and
+contribute to ongoing software and process improvements.
+Document Everything
+Maintain clear and accurate documentation throughout onboarding to ensure transparency
+and alignment across teams.
+What You'll Bring:
+4+ years of experience in client onboarding, implementation, or software adoption
+Experience working with SaaS platforms; municipal or GovTech background a strong plus
+Ability to configure and troubleshoot software solutions, particularly in accounting, payroll, or
+government workflows
+Excellent communication, coaching, and organizational skills
+Strong problem-solving skills with a proactive, analytical mindset
+A track record of balancing responsibility, authority, and accountability
+Self-starter mentality with strong ownership and follow-through
+Collaborative spirit and a passion for helping clients succeed
+What Success Looks Like:
+Efficient onboarding processes that reduce client ramp-up time
+High client satisfaction scores and smooth handoffs to Client Success
+Strong early adoption of product features and workflows
+Accurate software configuration aligned to client needs
+Cross-team visibility and communication around client progress
+Client feedback that drives tangible improvements in onboarding and product design
+Where You’ll Work:
+Omaha-based? You'll follow our hybrid model: work remotely with in-office collaboration on Tuesdays and Thursdays
++1
+(888)-608
+7666ProductsSolutionsCompanyResources
+Skip to main contentYour Privacy is important to us
+Customize your cookie preferences or click “Accept All” to agree to
+the storing of cookies on your device. View our Privacy Policy for
+more information.
+PreferencesAccept AllDeny4/6/26, 12:59 PM Join Our Team | Careers at gWorks: Empowering Municipal Excellence
+https://www.gworks.com/company/careers?gnk=job&gni=8a7887b29b1375ee019bdeed15d16dd4&lang=en 4/9
+Remote? You’ll be fully supported to work from anywhere in the U.S. We prioritize connected,
+accountable teams — no matter where you're located
+Compensation & Benefits:
+Base Salary Range: 68,000- 80,000
+Full medical, dental, and vision insurance
+401(k) with company match
+Flexible PTO and paid holidays
+A collaborative team culture that values autonomy, growth, and execution
+Equal Opportunity Employer:
+gWorks is an equal opportunity employer. We value diversity and are committed to creating an
+inclusive environment for all employees. All qualified applicants will receive consideration without
+regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or
+protected veteran status.
+GROW WITH US
+At gWorks, we invest in our team
+membersWork Authorization Notice: At this time, gWorks is unable to sponsor
+employment visas or work authorization of any kind. This includes, but is not
+limited to, H-1B, TN, OPT, E-3, or any other immigration status. Therefore, we
+cannot consider applicants who require or will require future visa sponsorship to
+work in the United States.
++1
+(888)-608
+7666ProductsSolutionsCompanyResources
+Skip to main contentYour Privacy is important to us
+Customize your cookie preferences or click “Accept All” to agree to
+the storing of cookies on your device. View our Privacy Policy for
+more information.
+PreferencesAccept AllDeny4/6/26, 12:59 PM Join Our Team | Careers at gWorks: Empowering Municipal Excellence
+https://www.gworks.com/company/careers?gnk=job&gni=8a7887b29b1375ee019bdeed15d16dd4&lang=en 5/9
+Weʼre a diverse group of software
+engineers, data specialists, and business
+professionals who are community-minded,
+client-focused, and dedicated innovators. As
+we evolve as a company, we want you to
+grow with us.
+At gWorks, weʼre endeavoring to build the
+software standard for small local
+governments. This vision is only possible
+with a disciplined, intelligent, and proactive
+team of outstanding individuals working
+together to achieve our purpose.
+GWORKS CAREERS
+SkillBridge
+Opportunities with
+gWorks
+If you are a service member
+interested in the Skillbridge program.
+Take a look at our opportunities and
+apply with The KYO Group!
+Learn more
++1
+(888)-608
+7666ProductsSolutionsCompanyResources
+Skip to main contentYour Privacy is important to us
+Customize your cookie preferences or click “Accept All” to agree to
+the storing of cookies on your device. View our Privacy Policy for
+more information.
+PreferencesAccept AllDeny4/6/26, 12:59 PM Join Our Team | Careers at gWorks: Empowering Municipal Excellence
+https://www.gworks.com/company/careers?gnk=job&gni=8a7887b29b1375ee019bdeed15d16dd4&lang=en 6/9
+Hear from gWorks Employees
+Wondering what it's
+like to work here?
+Check gWorks on
+Glassdoor
+See reviews from real employees and
+get an understanding of what itʼs like to
+work for us.
+"Rewarding Company Providing Real
+Impact"–GIS Support Manager, 2022
+Curious about
+gWorks' company
+culture? Our Culture
+Book says it all.
+Learn about who we are, our values,
+brand traits, hiring information and
+more in our downloadable Culture
+Book PDF.
+“Working at gWorks you really feel like part of the team. Leadership is
+coworkers are awesome. You can feel that everyone really relishes wh
+they genuinely enjoy coming into the office every day. Combine all thi
+headquarters, great benefits, and amazing clients; and who wouldn't w
+Cody Jenkins
+CLIENT SUCCESS SPECIALIST
++1
+(888)-608
+7666ProductsSolutionsCompanyResources
+Skip to main contentYour Privacy is important to us
+Customize your cookie preferences or click “Accept All” to agree to
+the storing of cookies on your device. View our Privacy Policy for
+more information.
+PreferencesAccept AllDeny4/6/26, 12:59 PM Join Our Team | Careers at gWorks: Empowering Municipal Excellence
+https://www.gworks.com/company/careers?gnk=job&gni=8a7887b29b1375ee019bdeed15d16dd4&lang=en 7/9
+Visit Glasdoor View Culture Book
+Empowering Local
+Government through
+Simple Software
+Solutions
+PRODUCTS
+Overview
+FrontDesk
+Payments
+Utility Billing Hub
+HR Hub
+Ops Hub
+Finance Hub
+Maps Hub
+Storage Hub
+PubWorks
+County WebGISSOLUTIONS
+Essentials
+Core
+Enterprise
+RESOURCES
+All Resources
+Insights
+Testimonials
+Events
+Webinars
+gWorks UniversityCOMPANY
+About
+Careers
+Contact Us
+Request a
+Consultation
+Support Login888-608-
+7666
+info@gworks.com
+3905 South
+148th St
+Ste 200
+Omaha, NE
+68144
++1
+(888)-608
+7666ProductsSolutionsCompanyResources
+Skip to main contentYour Privacy is important to us
+Customize your cookie preferences or click “Accept All” to agree to
+the storing of cookies on your device. View our Privacy Policy for
+more information.
+PreferencesAccept AllDeny4/6/26, 12:59 PM Join Our Team | Careers at gWorks: Empowering Municipal Excellence
+https://www.gworks.com/company/careers?gnk=job&gni=8a7887b29b1375ee019bdeed15d16dd4&lang=en 8/9
+Privacy PolicyTerms of UseCookie Manager
+© 2026 GIS Workshop, LLC dba gWorks. All Rights Reserved
++1
+(888)-608
+7666ProductsSolutionsCompanyResources
+Your Privacy is important to us
+Customize your cookie preferences or click “Accept All” to agree to
+the storing of cookies on your device. View our Privacy Policy for
+more information.
+PreferencesAccept AllDeny4/6/26, 12:59 PM Join Our Team | Careers at gWorks: Empowering Municipal Excellence
+https://www.gworks.com/company/careers?gnk=job&gni=8a7887b29b1375ee019bdeed15d16dd4&lang=en 9/9
+
+
+--- Production Support Engineer (Onsite- Austin, TX) - Togetherwork.pdf ---
+
+Production Support
+Engineer (Onsite- Austin,
+TX)
+Production Support Engineer 
+Location: Austin, TX (Onsite)
+Compensation: Competitive base + beneﬁts
+Togetherwork is seeking a Production Support Engineer to serve as the cornerstone of IT
+operations at our growing Austin ofﬁce. This is a dual-function, hands-on role combining
+frontline IT support with collaborative endpoint management — the best of both worlds for
+someone who thrives on variety and loves keeping technology humming smoothly.
+As the Austin ofﬁce expands, you'll be the go-to technical resource on the ground —
+supporting executives, setting up new hires, managing the ofﬁce's A/V and wireless
+environment, and ensuring hardware ﬂows in and out seamlessly. In parallel, you'll work side-
+by-side with our IT Hardware team based in Maryland, serving as the Austin arm of aVertical Solutions  
+Solutions Overview
+Back
+Arts
+Back
+Associations
+Back
+Camps
+Back
+Faith
+Back
+Fraternal
+Back
+Municipalities
+Back
+Nonproﬁt
+Back
+Pet-Care
+Back
+Wellness
+BackCompany Careers Contact Us 4/6/26, 12:24 PM Production Support Engineer (Onsite- Austin, TX) - Togetherwork
+https://www.togetherwork.com/jobs/togetherwork/production-support-engineer-onsite-austin-tx/ 1/5
+collaborative, cross-regional operation that collectively manages endpoint infrastructure for
+the entire company.
+What You'll Do:
+Local IT Support – Austin Ofﬁce
+Provide day-to-day IT support for Austin ofﬁce staff, with priority attention to executive-
+level users
+Manage and maintain the ofﬁce's A/V systems, conference room technology, and
+wireless infrastructure
+Handle end-to-end new hire laptop deployment — imaging, enrollment, and handoff —
+so employees are ready to work on day one
+Execute hardware offboarding and retrieval when employees transition out of the
+company
+Serve as the local escalation point for hardware and connectivity issues in the ofﬁce
+Endpoint Management – In Partnership with the Maryland Team
+Own endpoint management responsibilities for Austin ofﬁce devices, complementing
+the Maryland team's management of remote employees
+Collaborate cross-regionally to build, maintain, and reﬁne device management
+policies in Jamf and Microsoft Intune/Endpoint Manager
+Package and deploy applications, conﬁgurations, and compliance policies across the
+managed device ﬂeet
+Contribute to hardware lifecycle management — tracking, auditing, and maintaining
+inventory accuracy
+Participate in cross-team projects including AutoPilot/Intune enrollment workﬂows,
+policy standardization, and tooling improvements
+Partner with the Maryland team on runbook development and continuous
+improvement of provisioning and support processes
+What You'll Bring: 
+2+ years of experience in an IT support or systems administration role
+Hands-on experience with Microsoft Intune / Endpoint Manager (device enrollment,
+compliance policies, app deployment)
+Familiarity with Jamf Pro or Jamf Now for macOS/iOS device management
+Solid understanding of Windows and macOS endpoint conﬁguration and troubleshooting
+Experience supporting A/V systems, conferencing technology, and wireless networks in
+an ofﬁce environment
+Strong interpersonal skills — you'll be representing IT to executives and staff alikeVertical Solutions  
+Solutions Overview
+Arts
+Associations
+Camps
+Faith
+Fraternal
+Municipalities
+Nonproﬁt
+Pet-Care
+WellnessCompany Careers Contact Us 4/6/26, 12:24 PM Production Support Engineer (Onsite- Austin, TX) - Togetherwork
+https://www.togetherwork.com/jobs/togetherwork/production-support-engineer-onsite-austin-tx/ 2/5
+Ability to work independently and manage priorities in a fast-paced environment
+Comfortable with physical hardware work: unboxing, imaging, labeling, shipping, and
+retrieving equipment
+Nice to Have: 
+Experience with Microsoft AutoPilot and White Glove provisioning workﬂows
+Familiarity with Entra ID (Azure AD) and Entra-joined device management
+Experience with asset management platforms (e.g., BlueTally, Snipe-IT, or similar)
+Exposure to ITSM/ticketing tools such as Jira Service Management
+Experience supporting a primarily remote or hybrid workforce
+CompTIA A+, Network+, Microsoft 365 Certiﬁed, or similar certiﬁcations
+Why This Role: 
+Work on-site in a modern Austin ofﬁce with a growing, energetic team
+Dual-function role offering both direct people impact and technical depth
+Collaborative culture with a cross-regional IT team that values your contributions
+Exposure to enterprise endpoint management at scale across Mac and Windows
+environments
+Opportunity to shape IT processes and standards as the Austin ofﬁce grows
+About the Team:
+You'll join Togetherwork's IT Hardware team, a collaborative group responsible for the
+procurement, provisioning, deployment, and lifecycle management of physical devices
+across the company. The core team operates out of our Maryland ofﬁce and manages
+hardware for our large remote employee base. You'll be their counterpart in Austin —
+embedded in the local ofﬁce but deeply connected to the broader team.
+We're a practical, process-oriented team that values clear communication, documentation,
+and doing things right the ﬁrst time. If you take pride in clean deployments, organized
+inventory, and endpoints that just work, you'll ﬁt right in.
+The Company offers a comprehensive employee beneﬁts program, including: 
+Medical, dental, and vision insurance options
+100% Employer paid short/long term disability 
+Basic Life
+401(k) option with company match up to 4%
+Flexible paid personal/vacation time built on mutual trust and accountability 
+10 sick days annually 
+10 company paid holidays 
+6 weeks paid parental leave Vertical Solutions  
+Solutions Overview
+Arts
+Associations
+Camps
+Faith
+Fraternal
+Municipalities
+Nonproﬁt
+Pet-Care
+WellnessCompany Careers Contact Us 4/6/26, 12:24 PM Production Support Engineer (Onsite- Austin, TX) - Togetherwork
+https://www.togetherwork.com/jobs/togetherwork/production-support-engineer-onsite-austin-tx/ 3/5
+Apply Now
+Vertical
+Solutions
+Solutions
+Overview
+Arts
+Associations
+Camps
+Faith
+Fraternal
+Municipalities
+Non-ProﬁtCompany
+About Us
+Careers
+Contact Us(888) 554-6634
+info@togetherwork.com
+1221 S Congress Ave,
+Suite 300
+Austin, TX 78704
+Copyright 2023–2025 | All
+rights reserved.
+Privacy Policy | Terms of
+UseCulture that values work/life balance and celebrates successes
+Inclusion and Diversity: Togetherwork is an Equal Employment Opportunity Employer. We are
+a company where diverse backgrounds, experiences and viewpoints are valued.
+Togetherwork does not make hiring or employment decisions on the basis of race, color,
+religion, gender, gender identity, sex, sexual orientation, disability, veteran status, age, ethnic
+or national origin, or any other basis protected by all local, state or federal laws.  
+Interview Process & Expectations
+Our interviews are designed to be interactive and conversational. Candidates are expected
+to respond based on their own experience and thinking during live interviews.
+To ensure a fair and consistent interview experience, the use of real-time AI tools or other
+external assistance to generate or guide interview responses is not permitted. Interviews are
+intended to reﬂect an individual’s judgment, problem-solving approach, and communication.
+ 
+ 
+ 
+CCPA Disclosure Notice: Click HereVertical Solutions  
+Solutions Overview
+Arts
+Associations
+Camps
+Faith
+Fraternal
+Municipalities
+Nonproﬁt
+Pet-Care
+WellnessCompany Careers Contact Us 4/6/26, 12:24 PM Production Support Engineer (Onsite- Austin, TX) - Togetherwork
+https://www.togetherwork.com/jobs/togetherwork/production-support-engineer-onsite-austin-tx/ 4/5
+Pet-Care
+Wellness
+Vertical Solutions  
+Solutions Overview
+Arts
+Associations
+Camps
+Faith
+Fraternal
+Municipalities
+Nonproﬁt
+Pet-Care
+WellnessCompany Careers Contact Us 4/6/26, 12:24 PM Production Support Engineer (Onsite- Austin, TX) - Togetherwork
+https://www.togetherwork.com/jobs/togetherwork/production-support-engineer-onsite-austin-tx/ 5/5
