@@ -11,7 +11,7 @@ Cincinnati, OH | Open to Austin, TX and Remote
 linkedin.com/in/isaiah-washington48 | github.com/Izayauh
 
 SUMMARY
-Technical support professional with 4+ years of remote experience resolving infrastructure and device issues. Completed 1,500+ hours of remote customer interaction across 150+ managed properties. Employs diagnostic troubleshooting workflows and builds independent Python and local ML projects.
+Technical support professional with 4+ years of remote experience resolving infrastructure and device issues. Completed 1,500+ hours of remote customer interaction across 150+ managed properties. Uses diagnostic troubleshooting workflows and builds independent Python and local ML projects.
 
 SKILLS
 Support & Operations: Technical support, remote diagnostics, device triage (access points, switches, gateways, modems), ticket lifecycle management, hardware replacement coordination.
@@ -91,8 +91,8 @@ EXPERIENCE
 Network Support Technician | Nexus WiFi
 West Chester, OH (100% Remote) | Oct 2021 – Present
 • Triage downed infrastructure and device connectivity issues across 150+ client properties using internal ticketing platforms.
-• Complete 1,500+ hours of remote customer support, explaining diagnostic steps and technical faults to non-technical users.
-• Manage triage and replacement coordination for localized hardware, encompassing access points, switches, gateways, and modems.
+• Completed 1,500+ hours of remote customer support, explaining diagnostic steps and technical faults to non-technical users.
+• Manage triage and replacement coordination for hardware issues involving access points, switches, gateways, and modems.
 
 Administrative Assistant | Midway Auto Group
 Middletown, OH | Jan 2019 – Dec 2023
