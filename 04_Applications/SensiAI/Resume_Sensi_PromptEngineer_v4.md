@@ -2,7 +2,7 @@
 
 ```text
 ISAIAH WASHINGTON
-Cincinnati, OH | Open to Austin, TX (Relocating)
+Cincinnati, OH | Open to Austin, TX and Remote
 513.544.9022 | isaiahwashington48@gmail.com
 linkedin.com/in/isaiah-washington48 | github.com/Izayauh
 
@@ -35,7 +35,7 @@ github.com/Izayauh/LivePilot
 
 Impulse — Privacy-First Dictation App (Beta)
 github.com/Izayauh/whisper | impulse-eight-lake.vercel.app
-• Built a GPU-accelerated speech-to-text dictation application utilizing Python, OpenAI Whisper API, and NVIDIA CUDA.
+• Built a GPU-accelerated speech-to-text dictation application utilizing Python, OpenAI Whisper for local inference, and NVIDIA CUDA.
 • Facilitated continuous testing with recordings and transcripts before and after launch to improve transcription naturalness and tone issues.
 • Managed project development steps: model selection, local installer packaging, and GitHub distribution.
 

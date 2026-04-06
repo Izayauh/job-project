@@ -2,7 +2,7 @@
 
 ```text
 ISAIAH WASHINGTON
-Cincinnati, OH | Open to Austin, TX (Relocating)
+Cincinnati, OH | Open to Austin, TX and Remote
 513.544.9022 | isaiahwashington48@gmail.com
 linkedin.com/in/isaiah-washington48 | github.com/Izayauh
 
@@ -10,14 +10,14 @@ SUMMARY
 Technical support professional with 4+ years of remote experience resolving infrastructure, hardware, and device issues. Completed 1,500+ hours of direct customer interaction handling IT support across 150+ managed properties. Uses diagnostic troubleshooting workflows to manage endpoint connectivity and builds independent Python and local ML projects.
 
 SKILLS
-Support & Operations: Frontline IT support, endpoint troubleshooting, new hire setup / hardware offboarding, A/V systems and wireless infrastructure troubleshooting, ticket lifecycle management.
+Support & Operations: Technical troubleshooting, device and endpoint triage, hardware dispatch and retrieval coordination, ticket lifecycle management.
 Tools & Platforms: Windows OS, Git, GitHub, Microsoft Office.
 Programming: Python, HTML/CSS/JavaScript, SQL (Coursework).
 
 EXPERIENCE
 Network Support Technician | Nexus WiFi
 West Chester, OH (100% Remote) | Oct 2021 – Present
-• Provide day-to-day frontline IT support for external customers across 150+ managed properties, serving as the escalation point for hardware and connectivity issues.
+• Provide remote technical troubleshooting for external customers across 150+ managed properties, serving as an escalation point for hardware and connectivity issues.
 • Triage wireless infrastructure outages and conduct fault isolation across access points, switches, gateways, and modems.
 • Execute diagnostic workflows using internal ticketing platforms to resolve inbound support requests and coordinate hardware dispatch or retrieval.
 • Maintain outbound communication with non-technical users to explain diagnostic steps and provide rapid updates on endpoint stability.

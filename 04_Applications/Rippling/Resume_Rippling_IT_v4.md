@@ -10,7 +10,7 @@ SUMMARY
 Technical support professional and builder with 4+ years of customer-facing troubleshooting and IT support setup experience. Built AI-enabled Python applications, including a multi-agent prototype and a local Windows speech-to-text beta app. Brings strong project management skills, experience helping customers implement IT products, and the ability to manage client relationships effectively.
 
 SKILLS
-Implementation & IT Setup: Helping customers implement IT products, fleet management (inventory/devices), endpoint lifecycle coordination, remote training and client adoption workflows.
+Support & Operations: Fleet and inventory data management, hardware triage coordination, remote technical training, ticket lifecycle management.
 Programming & Scripting: Python, React, TypeScript, HTML/CSS/JavaScript.
 System Architecture & Tools: API integration (Google Gemini, OpenAI), OSC protocol, Windows endpoint configurations, Git, GitHub.
 Customer Success: Managing client relationships, remote diagnostics, ticket lifecycle management.
@@ -18,9 +18,9 @@ Customer Success: Managing client relationships, remote diagnostics, ticket life
 EXPERIENCE
 Network Support Technician | Nexus WiFi
 West Chester, OH (100% Remote) | Oct 2021 – Present
-• Triage downed infrastructure and device connectivity issues across 150+ client properties, working cross-functionally to improve the customer experience for IT.
-• Completed 1,500+ hours of remote customer support, managing client relationships and training the customer on diagnostic troubleshooting.
-• Manage triage, device provisioning, and endpoint lifecycle coordination for hardware issues involving access points, switches, gateways, and modems.
+• Triage downed infrastructure and device connectivity issues across 150+ client properties, collaborating across departments to resolve technical faults.
+• Completed 1,500+ hours of remote customer support, maintaining communications and guiding the customer through diagnostic troubleshooting.
+• Manage triage and hardware replacement coordination for endpoint issues involving access points, switches, gateways, and modems.
 
 Administrative Assistant | Midway Auto Group
 Middletown, OH | Jan 2019 – Dec 2023

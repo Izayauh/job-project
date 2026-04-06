@@ -17,10 +17,10 @@ Programming: Python, HTML/CSS/JavaScript, SQL (Coursework).
 EXPERIENCE
 Network Support Technician | Nexus WiFi
 West Chester, OH (100% Remote) | Oct 2021 – Present
-• Serve as the main point of contact for external customers across 150+ managed properties, ensuring client success and satisfaction through various communication channels.
+• Provide remote technical troubleshooting for external customers across 150+ managed properties, effectively resolving hardware and connectivity issues.
 • Triage connectivity outages and conduct fault isolation across access points, switches, gateways, and modems.
 • Execute diagnostic workflows using internal ticketing platforms to resolve inbound support requests and prioritize effectively to ensure clients get the best service.
-• Provide positive, high-energy written and verbal communication to non-technical users to educate them on diagnostic steps and resolve day-to-day problems.
+• Maintain positive, high-energy written and verbal communication with non-technical users to explain diagnostic steps and resolve day-to-day problems.
 
 Key Accounts Team Assistant | The Cincinnati Insurance Company
 Fairfield, OH | Feb 2023 – Aug 2023
